@@ -95,6 +95,7 @@ for url in urlArray:
                 line,
             )
             if line_match is not None:
+                utterance_type = "T"
                 who = line_match.group(6)
                 who = re.sub(r" \(onboard\)", "", who)
                 if "Young" in who:
@@ -120,7 +121,6 @@ for url in urlArray:
                         who = who[0:3]
 
                 utterance = line_match.group(8)
-                utterance_type = "T"
                 startLineNum = linecounter
 
             pao_match = re.search(r"<p class=\"?pao\"?>.*?\"?(.*)\"?", line)
