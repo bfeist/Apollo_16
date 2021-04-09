@@ -11,7 +11,7 @@
     "editor.defaultFormatter": null
   },
   "[html]": {
-    "editor.defaultFormatter": null
+    "editor.defaultFormatter": "vscode.html-language-features"
   },
   "html.format.wrapLineLength": 0
 }
