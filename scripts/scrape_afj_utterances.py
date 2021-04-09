@@ -45,16 +45,16 @@ urlArray = [
 # urlArray = ["02_Day1_Pt2.html"]
 
 outputFilePath = "../MISSION_DATA/scraped_data/scraped_utterances_AFJ.csv"
-outputFile = open(outputFilePath, "w")
+outputFile = open(outputFilePath, "w", encoding="utf-8")
 outputFile.write("")
 outputFile.close()
-outputFile = open(outputFilePath, "a")
+outputFile = open(outputFilePath, "a", encoding="utf-8")
 
 for url in urlArray:
     # request = requests.get("https://history.nasa.gov/afj/ap16fj/" + url)
     # pageAscii = request.text.encode("ascii", "ignore").decode("ascii")
     # lines = pageAscii.split("\r")
-    data = open("../ap16fj/" + url, "r")
+    data = open("../ap16fj/" + url, "r", encoding="utf-8")
     pageAscii = data.read()
     lines = pageAscii.split("\n")
 
