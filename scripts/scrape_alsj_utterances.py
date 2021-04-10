@@ -79,7 +79,7 @@ for url in urlArray:
     linecounter = 0
     for line in lines:
         linecounter += 1
-        if linecounter == 138:
+        if linecounter == 1052:
             print("test area")
 
         line_match = re.search(r"<b>(\d{3}(:| )\d{2}(:| )\d{2})</b> (.*): (.*)", line)

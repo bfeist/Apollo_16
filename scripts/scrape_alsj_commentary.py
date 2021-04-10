@@ -1,113 +1,155 @@
-__author__ = 'Feist'
+__author__ = "Feist"
 import requests
 import re
 
+urlArray = [
+    "a16.landing.html",
+    "a16.postland.html",
+    "a16.window.html",
+    "a16.eva1wake.html",
+    "a16.eva1prep.html",
+    "a16.eva1prelim.html",
+    "a16.lrvdep.html",
+    "a16.lrvload.html",
+    "a16.alsepoff.html",
+    "a16.heatflow.html",
+    "a16.deepcore.html",
+    "a16.thumper.html",
+    "a16.geoprep1.html",
+    "a16.trvsta1.html",
+    "a16.sta1.html",
+    "a16.trvsta2.html",
+    "a16.sta2.html",
+    "a16.trvlm1.html",
+    "a16.clsout1.html",
+    "a16.eva1post.html",
+    "a16.debrief1.html",
+    "a16.CMP-site.html",
+    "a16.eva2wake.html",
+    "a16.eva2prep.html",
+    "a16.eva2prelim.html",
+    "a16.trvsta4.html",
+    "a16.sta4.html",
+    "a16.sta5.html",
+    "a16.sta6.html",
+    "a16.trv6to8.html",
+    "a16.sta8.html",
+    "a16.trvsta9.html",
+    "a16.sta9.html",
+    "a16.trvlm2.html",
+    "a16.sta10.html",
+    "a16.clsout2.html",
+    "a16.eva2post.html",
+    "a16.eva3wake.html  ",
+    "a16.eva3prep.html  ",
+    "a16.eva3prelim.html  ",
+    "a16.trvsta11.html  ",
+    "a16.sta11.html  ",
+    "a16.house_rock.html  ",
+    "a16.trvsta13.html  ",
+    "a16.sta13.html  ",
+    "a16.trvlm3.html",
+    "a16.sta10prime.html",
+    "a16.clsout3.html",
+    "a16.vip.html",
+    "a16.eva3post.html",
+    "a16.launch.html",
+]
 
-def cleanseString(str):
-    result = str.replace('<blockquote><i>', '')
-    # result = result.replace('  ', ' ')
-    # result = result.replace('[', '')
-    result = re.sub('.*?\[', '', result)
-    result = result.replace(']', '')
-    result = result.replace('\n', ' ')
-    name_match = re.search(r'<a name="\d{7}">(.*?)</a>', result)
-    if name_match is not None:
-        result = re.sub('<a name="\d{7}">.*?</a>', name_match.group(1), result)
-    name_match = re.search(r'<a name=".*">(.*?)</a>', result)
-    if name_match is not None:
-        result = re.sub('<a name=".*?">.*?</a>', name_match.group(1), result)
-    result = re.sub('<a name=".*?">', result, result)
-    result = re.sub(' +', ' ', result).strip()
-    return result
-
-
-urlArray = ["a11.landing.html", "a11.postland.html", "a11.evaprep.html", "a11.step.html", "a11.mobility.html", "a11.clsout.html", "a11.posteva.html", "a11.launch.html"]
-
-# urlArray = ["a11.landing.html"]
+# urlArray = ["a16.landing.html"]
 
 outputFilePath = "../MISSION_DATA/scraped_data/scraped_commentary_ALSJ.csv"
-outputFile = open(outputFilePath, "w")
+outputFile = open(outputFilePath, "w", encoding="utf-8")
 outputFile.write("")
 outputFile.close()
-outputFile = open(outputFilePath, "a")
+outputFile = open(outputFilePath, "a", encoding="utf-8")
 
 for url in urlArray:
-    # page = requests.get('https://history.nasa.gov/afj/ap11fj/' + url)
-    # pageAscii = page.text.encode('ascii', 'ignore')
-    # lines = pageAscii.split('\r')
+    # request = requests.get("https://www.hq.nasa.gov/alsj/a16/" + url)
+    # pageAscii = request.text.encode("ascii", "ignore").decode("ascii")
+    # lines = pageAscii.split("\r\n")
+    data = open("../alsj16/" + url, "r", encoding="utf-8")
+    pageAscii = data.read()
+    lines = pageAscii.split("\n")
 
-    request = requests.get('https://www.hq.nasa.gov/office/pao/History/alsj/a11/' + url)
-    pageAscii = request.text.encode('ascii', 'ignore').decode('ascii')
-    lines = pageAscii.split("\r\n")
-
-    timestamp = ''
-    gCommentaryStarted = False
-    gCommentaryEnded = False
-    gConcatenatedLine = ''
+    timestamp = ""
+    started = False
+    writeRecord = False
+    comment = ""
     linecounter = 0
     for line in lines:
         linecounter += 1
-        if linecounter == 37:
-            print('test area')
-        timestamp_match = re.search(r'a name="(\d{7})"', line)
-        if timestamp_match is not None:
-            timestamp = timestamp_match.group(1)
-            timestamp = timestamp[0:3] + ":" + timestamp[3:5] + ":" + timestamp[5:7]
+        if linecounter == 40:
+            print("test area")
 
-        commentarySegment = ''
+        line_match = re.search(r"<b>(\d{3}(:| )\d{2}(:| )\d{2})</b>", line)
+        if line_match is not None:
+            timestamp = line_match.group(1)
 
-        commentaryStartMatch = re.search(r'\[', line)
-        if commentaryStartMatch:
-            gCommentaryStarted = True
-            gConcatenatedLine = ''
+        line_match = re.search(r".*?\[(.*)", line)
+        if line_match is not None:
+            comment = line_match.group(1)
 
-        commentaryEndMatch = re.search(r'\]', line)
-        if commentaryEndMatch:
-            gCommentaryEnded = True
-            commentarySegment = line[:commentaryEndMatch.end() - 1]
+            line_match = re.search(r"Comm Break", comment)
+            if line_match is None:
+                started = True
 
-        if gCommentaryStarted and not gCommentaryEnded:
-            commentarySegment = line + ' '
+            commentSplit = comment.split(" - &quot;")
+            if started and len(commentSplit) == 2:
+                who = commentSplit[0]
+                comment = commentSplit[1]
+                comment = re.sub(r"\&quot;", "", comment)
+            else:
+                who = ""
 
-        gConcatenatedLine = gConcatenatedLine + commentarySegment
-
-        if gCommentaryStarted & gCommentaryEnded:
-            gCommentaryStarted = False
-            gCommentaryEnded = False
-            commentary = gConcatenatedLine
-            gConcatenatedLine = ''
-            who = ''
-            urlMatch = re.search(r'<a href=".*"', commentary)
-            if urlMatch:
-                if commentary[urlMatch.start()+9:urlMatch.start()+11] == "..":
-                    commentary = commentary.replace('<a href="../', '<a href="http://www.hq.nasa.gov/alsj/')
-                elif commentary[urlMatch.start()+9:urlMatch.start()+13] == "http":
-                    pass
-                else:
-                    commentary = commentary.replace('<a href="', '<a href="http://www.hq.nasa.gov/alsj/a11/')
-            commentary = commentary.replace('target="new"', 'target="alsj"')
-            commentary = commentary.replace('&quot;', '"')
-
-            CDRMatch = re.search(r'Armstrong.*?"', commentary)
-            if CDRMatch:
-                who = "CDR"
-                commentary = '"' + commentary[CDRMatch.end():len(commentary)]
-            LMPMatch = re.search(r'Aldrin.*?"', commentary)
-            if LMPMatch:
-                who = "LMP"
-                commentary = '"' + commentary[LMPMatch.end():len(commentary)]
-            CMPMatch = re.search(r'Collins.*?"', commentary)
-            if CMPMatch:
-                who = "CMP"
-                commentary = '"' + commentary[CMPMatch.end():len(commentary)]
-            source = 'ALSJ'
-            if not any(re.findall(r'omm break.|ong pause', commentary, re.IGNORECASE)):
-                commentary = cleanseString(commentary)
-                print('commentary found:', timestamp, '|', who, '|', commentary)
-                outputFile.write(timestamp + "|" + source + "|" + who + "|" + commentary + "\n")
-                commentary = ''
+            if started:
+                line_match = re.search(r"\]", comment)
+                if started and line_match is not None:
+                    comment = re.sub(r"\](</i></blockquote>)?", "", comment)
+                    writeRecord = True
+                    started = False
 
         else:
-            pass
+            if started:
+                if line == "":
+                    started = False
+                    writeRecord = True
+                else:
+                    comment = comment + " " + line.rstrip()
+
+        if writeRecord:
+            writeRecord = False
+
+            match = re.search(r"http", comment)
+            if match is not None:
+                comment = re.sub(
+                    r'<a href="(.*?)">',
+                    r'<a href="\1" target="alsj">',
+                    comment,
+                )
+            else:
+                comment = re.sub(
+                    r'<a href="(.*?)">',
+                    r'<a href="https://www.hq.nasa.gov/alsj/a16/\1" target="alsj">',
+                    comment,
+                )
+
+            line_match = re.search(r"from the 1972 Technical Debrief", who)
+            if line_match is not None:
+                who = re.sub(r"from the 1972 Technical Debrief", "", who)
+                who = re.sub(r",", "", who)
+                who = who.strip()
+                credit = "tech"
+            else:
+                credit = "alsj"
+
+            comment = comment.strip()
+            comment = comment.strip('"')
+            comment = comment.strip()
+            comment = comment.removesuffix("<p>")
+
+            dataLine = timestamp + "|" + who.strip() + "|" + credit + "|" + comment + "\n"
+            print(str(linecounter) + ": " + dataLine)
+            outputFile.write(dataLine)
 
     print("************* DONE page:", url)

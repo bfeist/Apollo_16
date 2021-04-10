@@ -98,7 +98,7 @@ for url in urlArray:
                 commentary = commentary.strip()
                 commentary = commentary.strip('"')
                 commentary = commentary.strip()
-                dataLine = timestamp + "|" + commentary + "\n"
+                dataLine = timestamp + "||afj|" + commentary + "\n"
                 print(str(linecounter) + ": " + dataLine)
                 outputFile.write(dataLine)
                 commentary = ""
