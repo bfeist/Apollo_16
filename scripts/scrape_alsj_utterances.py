@@ -68,7 +68,7 @@ for url in urlArray:
     # request = requests.get("https://www.hq.nasa.gov/office/pao/History/alsj/a11/" + url)
     # pageAscii = request.text.encode("ascii", "ignore").decode("ascii")
     # lines = pageAscii.split("\r\n")
-    data = open("../alsj16/" + url, "r", encoding="utf-8")
+    data = open("../MISSION_DATA/journals/alsj16/" + url, "r", encoding="utf-8")
     pageAscii = data.read()
     lines = pageAscii.split("\n")
 
@@ -126,18 +126,36 @@ for url in urlArray:
 
         if writeRecord:
             writeRecord = False
+            utterance = re.sub(r"\((G|g)arble.?\)", "...", utterance)
             utterance = re.sub(r"\[((L|l)ong )?(P|p)ause.*?\]", "", utterance)
             utterance = re.sub(r"\.\.\.", " - ", utterance)
             utterance = re.sub(r"\[(G|g)arble.?\]", "...", utterance)
-            utterance = re.sub(r"\((G|g)arble.?\)", "...", utterance)
+
+            utterance = re.sub(r"\(.*?\)", "", utterance)
+
             utterance = re.sub(r"\[Apollo\]", "", utterance)
             utterance = re.sub(r"\&nbsp;", " ", utterance)
             utterance = re.sub(r"\.\.\.\.", "...", utterance)
             utterance = re.sub(r"  ", " ", utterance)
+            utterance = re.sub(r" target=\"new\"", "", utterance)
             utterance = utterance.strip()
             utterance = utterance.strip('"')
             utterance = utterance.strip()
             utterance = utterance.removesuffix("<p>")
+
+            match = re.search(r"http", utterance)
+            if match is not None:
+                utterance = re.sub(
+                    r'<a href="(.*?)">',
+                    r'<a href="\1" target="alsj">',
+                    utterance,
+                )
+            else:
+                utterance = re.sub(
+                    r'<a href="(.*?)">',
+                    r'<a href="https://www.hq.nasa.gov/alsj/a16/\1" target="alsj">',
+                    utterance,
+                )
 
             print(str(linecounter) + " " + timestamp + "|" + utterance_type + "|" + who.strip() + "|" + utterance)
             outputFile.write(timestamp + "|" + utterance_type + "|" + who.strip() + "|" + utterance.strip() + "\n")

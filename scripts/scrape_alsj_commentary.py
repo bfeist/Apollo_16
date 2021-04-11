@@ -68,7 +68,7 @@ for url in urlArray:
     # request = requests.get("https://www.hq.nasa.gov/alsj/a16/" + url)
     # pageAscii = request.text.encode("ascii", "ignore").decode("ascii")
     # lines = pageAscii.split("\r\n")
-    data = open("../alsj16/" + url, "r", encoding="utf-8")
+    data = open("../MISSION_DATA/journals/alsj16/" + url, "r", encoding="utf-8")
     pageAscii = data.read()
     lines = pageAscii.split("\n")
 
