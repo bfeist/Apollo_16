@@ -1,0 +1,18 @@
+# macos
+.DS_Store
+
+# javascript
+node_modules/
+
+# nextjs
+.next/
+out/
+
+# production
+dist/
+
+# local cache
+.cache*
+
+# don't commit secrets!
+.env.local

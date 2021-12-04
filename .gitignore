@@ -4,5 +4,11 @@ Adobe Premiere Pro Auto-Save
 Adobe Premiere Pro Audio Previews
 .DS_Store
 assets/
-MISSION_DATA/scraped_data/temp
-MISSION_DATA/original_docs/ocr
+*/MISSION_DATA/scraped_data/temp
+*/MISSION_DATA/original_docs/ocr
+*/MISSION_DATA/journals
+
+# nextjs
+*/out/
+*/.next/
+*~$*

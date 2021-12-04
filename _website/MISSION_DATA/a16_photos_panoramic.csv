@@ -1,0 +1,1599 @@
+AS16-P-4091|080:38:12|Forward|11|NA|CSM|Rev 3|Zhukovskiy|Panoramic|3414
+AS16-P-4092|080:38:17|Aft|11|NA|CSM|Rev 3|Zhukovskiy|Panoramic|3414
+AS16-P-4093|080:38:23|Forward|11|NA|CSM|Rev 3|West of Zhukovskiy|Panoramic|3414
+AS16-P-4094|080:38.29|Aft|12|NA|CSM|Rev 3|Zhukovskiy|Panoramic|3414
+AS16-P-4095|105:29:46|Forward|1|4100|CSM|Rev17|West of Stein|Panoramic|3414
+AS16-P-4096|105:29:53|Aft|0|NA|CSM|Rev17|East of Stein|Panoramic|3414
+AS16-P-4097|105:29:58|Forward|2|4102|CSM|Rev17|East of Safarik|Panoramic|3414
+AS16-P-4098|105:30:04|Aft|1|NA|CSM|Rev17|Stein|Panoramic|3414
+AS16-P-4099|105:30:12|Forward|3|4104|CSM|Rev17|Safarik|Panoramic|3414
+AS16-P-4100|105:30:20|Aft|1|4095|CSM|Rev17|West of Stein|Panoramic|3414
+AS16-P-4101|105:30:26|Forward|3|4106|CSM|Rev17|Safarik|Panoramic|3414
+AS16-P-4102|105:30:33|Aft|2|4097|CSM|Rev17|East of Safarik|Panoramic|3414
+AS16-P-4103|105:30:39|Forward|4|4108|CSM|Rev17|East of Valier|Panoramic|3414
+AS16-P-4104|105:30:46|Aft|3|4099|CSM|Rev17|Safarik|Panoramic|3414
+AS16-P-4105|105:30:53|Forward|5|4110|CSM|Rev17|Valier|Panoramic|3414
+AS16-P-4106|105:30:59|Aft|3|4101|CSM|Rev17|Safarik|Panoramic|3414
+AS16-P-4107|105:31:06|Forward|5|4112|CSM|Rev17|Valier, Sharonov|Panoramic|3414
+AS16-P-4108|105:31:12|Aft|4|4103|CSM|Rev17|East of Valier|Panoramic|3414
+AS16-P-4109|105:31:19|Forward|6|4114|CSM|Rev17|Valier, Sharonov|Panoramic|3414
+AS16-P-4110|105:31:26|Aft|5|4105|CSM|Rev17|Valier|Panoramic|3414
+AS16-P-4111|105:31:32|Forward|7|4116|CSM|Rev17|Sharonov|Panoramic|3414
+AS16-P-4112|105:31:39|Aft|5|4107|CSM|Rev17|Valier, Sharonov|Panoramic|3414
+AS16-P-4113|105:31:45|Forward|7|4118|CSM|Rev17|Sharonov|Panoramic|3414
+AS16-P-4114|105:31:52|Aft|6|4109|CSM|Rev17|Valier, Sharonov|Panoramic|3414
+AS16-P-4115|105:31:58|Forward|8|4120|CSM|Rev17|South west of Sharonov|Panoramic|3414
+AS16-P-4116|105:32:05|Aft|7|4111|CSM|Rev17|Sharonov|Panoramic|3414
+AS16-P-4117|105:32:12|Forward|9|4122|CSM|Rev17|South west of Sharonov|Panoramic|3414
+AS16-P-4118|105:32:19|Aft|7|4113|CSM|Rev17|Sharonov|Panoramic|3414
+AS16-P-4119|105:32:28|Forward|9|4124|CSM|Rev17|Dufay|Panoramic|3414
+AS16-P-4120|105:32:36|Aft|8|4115|CSM|Rev17|South west of Sharonov|Panoramic|3414
+AS16-P-4121|105:32:43|Forward|10|4126|CSM|Rev17|Dufay|Panoramic|3414
+AS16-P-4122|105:32:50|Aft|9|4117|CSM|Rev17|South west of Sharonov|Panoramic|3414
+AS16-P-4123|105:32:56|Forward|11|4128|CSM|Rev17|West of Dufay|Panoramic|3414
+AS16-P-4124|105:33:03|Aft|9|4119|CSM|Rev17|Dufay|Panoramic|3414
+AS16-P-4125|105:33:11|Forward|12|4130|CSM|Rev17|Spencer Jones|Panoramic|3414
+AS16-P-4126|105:33:19|Aft|10|4121|CSM|Rev17|Dufay|Panoramic|3414
+AS16-P-4127|105:33:27|Forward|13|4132|CSM|Rev17|Spencer Jones|Panoramic|3414
+AS16-P-4128|105:33:34|Aft|11|4123|CSM|Rev17|West of Dufay|Panoramic|3414
+AS16-P-4129|105:33:41|Forward|13|4134|CSM|Rev17|Spencer Jones|Panoramic|3414
+AS16-P-4130|105:33:47|Aft|12|4125|CSM|Rev17|Spencer Jones|Panoramic|3414
+AS16-P-4131|105:33:54|Forward|14|4136|CSM|Rev17|Spencer Jones|Panoramic|3414
+AS16-P-4132|105:34:01|Aft|13|4127|CSM|Rev17|Spencer Jones|Panoramic|3414
+AS16-P-4133|105:34:08|Forward|15|4138|CSM|Rev17|Papaleski|Panoramic|3414
+AS16-P-4134|105:34:14|Aft|13|4129|CSM|Rev17|Spencer Jones|Panoramic|3414
+AS16-P-4135|105:34:21|Forward|15|4140|CSM|Rev17|Papaleski|Panoramic|3414
+AS16-P-4136|105:34:28|Aft|14|4131|CSM|Rev17|Spencer Jones|Panoramic|3414
+AS16-P-4137|105:34:34|Forward|16|4142|CSM|Rev17|Papaleski|Panoramic|3414
+AS16-P-4138|105:34:41|Aft|15|4133|CSM|Rev17|Papaleski|Panoramic|3414
+AS16-P-4139|105:34:48|Forward|17|4144|CSM|Rev17|Mandel'shtam|Panoramic|3414
+AS16-P-4140|105:34:56|Aft|15|4135|CSM|Rev17|Papaleski|Panoramic|3414
+AS16-P-4141|105:35:03|Forward|17|4146|CSM|Rev17|Mandel'shtam|Panoramic|3414
+AS16-P-4142|105:35:10|Aft|16|4137|CSM|Rev17|Papaleski|Panoramic|3414
+AS16-P-4143|105:35:17|Forward|18|4148|CSM|Rev17|Mandel'shtam|Panoramic|3414
+AS16-P-4144|105:35:24|Aft|17|4139|CSM|Rev17|Mandel'shtam|Panoramic|3414
+AS16-P-4145|105:35:33|Forward|19|4150|CSM|Rev17|West of Mandel'shtam|Panoramic|3414
+AS16-P-4146|105:35:40|Aft|17|4141|CSM|Rev17|Mandel'shtam|Panoramic|3414
+AS16-P-4147|105:35:47|Forward|19|4152|CSM|Rev17|West of Mandel'shtam|Panoramic|3414
+AS16-P-4148|105:35:54|Aft|18|4143|CSM|Rev17|Mandel'shtam|Panoramic|3414
+AS16-P-4149|105:36:01|Forward|20|4154|CSM|Rev17|West of Mandel'shtam|Panoramic|3414
+AS16-P-4150|105:36:08|Aft|19|4145|CSM|Rev17|West of Mandel'shtam|Panoramic|3414
+AS16-P-4151|105:36:15|Forward|21|4156|CSM|Rev17|East of Mills|Panoramic|3414
+AS16-P-4152|105:36:22|Aft|19|4147|CSM|Rev17|West of Mandel'shtam|Panoramic|3414
+AS16-P-4153|105:36:30|Forward|22|4158|CSM|Rev17|East of Mills|Panoramic|3414
+AS16-P-4154|105:36:37|Aft|20|4149|CSM|Rev17|West of Mandel'shtam|Panoramic|3414
+AS16-P-4155|105:36:45|Forward|22|4160|CSM|Rev17|East of Mills|Panoramic|3414
+AS16-P-4156|105:36:53|Aft|21|4151|CSM|Rev17|East of Mills|Panoramic|3414
+AS16-P-4157|105:36:59|Forward|23|4162|CSM|Rev17|Mills|Panoramic|3414
+AS16-P-4158|105:37:06|Aft|22|4153|CSM|Rev17|East of Mills|Panoramic|3414
+AS16-P-4159|105:37:13|Forward|24|4164|CSM|Rev17|Mills|Panoramic|3414
+AS16-P-4160|105:37:20|Aft|22|4155|CSM|Rev17|East of Mills|Panoramic|3414
+AS16-P-4161|105:37:27|Forward|24|4166|CSM|Rev17|West of Mills|Panoramic|3414
+AS16-P-4162|105:37:35|Aft|23|4157|CSM|Rev17|Mills|Panoramic|3414
+AS16-P-4163|105:37:42|Forward|25|4168|CSM|Rev17|West of Mills|Panoramic|3414
+AS16-P-4164|105:37:49|Aft|24|4159|CSM|Rev17|Mills|Panoramic|3414
+AS16-P-4165|105:37:56|Forward|26|4170|CSM|Rev17|East of Henderson|Panoramic|3414
+AS16-P-4166|105:38:03|Aft|24|4161|CSM|Rev17|West of Mills|Panoramic|3414
+AS16-P-4167|105:38:10|Forward|27|4172|CSM|Rev17|East rim of Henderson|Panoramic|3414
+AS16-P-4168|105:38:17|Aft|25|4163|CSM|Rev17|West of Mills|Panoramic|3414
+AS16-P-4169|105:38:24|Forward|27|4174|CSM|Rev17|Henderson|Panoramic|3414
+AS16-P-4170|105:38:31|Aft|26|4165|CSM|Rev17|East of Henderson|Panoramic|3414
+AS16-P-4171|105:38:38|Forward|28|4176|CSM|Rev17|Henderson|Panoramic|3414
+AS16-P-4172|105:38:44|Aft|27|4167|CSM|Rev17|East rim of Henderson|Panoramic|3414
+AS16-P-4173|105:38:51|Forward|29|4178|CSM|Rev17|St.John|Panoramic|3414
+AS16-P-4174|105:38:58|Aft|27|4169|CSM|Rev17|Henderson|Panoramic|3414
+AS16-P-4175|105:39:05|Forward|29|4180|CSM|Rev17|East of Schuster|Panoramic|3414
+AS16-P-4176|105:39:12|Aft|28|4171|CSM|Rev17|Henderson|Panoramic|3414
+AS16-P-4177|105:39:19|Forward|30|4182|CSM|Rev17|East of Schuster|Panoramic|3414
+AS16-P-4178|105:39:26|Aft|29|4173|CSM|Rev17|St.John|Panoramic|3414
+AS16-P-4179|105:39:33|Forward|31|4184|CSM|Rev17|East of Schuster|Panoramic|3414
+AS16-P-4180|105:39:40|Aft|29|4175|CSM|Rev17|East of Schuster|Panoramic|3414
+AS16-P-4181|105:39:47|Forward|32|4186|CSM|Rev17|Schuster|Panoramic|3414
+AS16-P-4182|105:39:54|Aft|30|4177|CSM|Rev17|East of Schuster|Panoramic|3414
+AS16-P-4183|105:40:00|Forward|32|4188|CSM|Rev17|Schuster|Panoramic|3414
+AS16-P-4184|105:40:07|Aft|31|4179|CSM|Rev17|East of Schuster|Panoramic|3414
+AS16-P-4185|105:40:14|Forward|33|4190|CSM|Rev17|Schuster|Panoramic|3414
+AS16-P-4186|105:40:21|Aft|32|4181|CSM|Rev17|Schuster|Panoramic|3414
+AS16-P-4187|105:40:28|Forward|33|4192|CSM|Rev17|Schuster|Panoramic|3414
+AS16-P-4188|105:40:35|Aft|32|4183|CSM|Rev17|Schuster|Panoramic|3414
+AS16-P-4189|105:40:42|Forward|34|4194|CSM|Rev17|Mendeleev, Schuster|Panoramic|3414
+AS16-P-4190|105:40:50|Aft|33|4185|CSM|Rev17|Schuster|Panoramic|3414
+AS16-P-4191|105:40:57|Forward|35|4196|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4192|105:41:04|Aft|33|4187|CSM|Rev17|Schuster|Panoramic|3414
+AS16-P-4193|105:41:11|Forward|36|4198|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4194|105:41:19|Aft|34|4189|CSM|Rev17|Mendeleev, Schuster|Panoramic|3414
+AS16-P-4195|105:41:26|Forward|36|4200|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4196|105:41:33|Aft|35|4191|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4197|105:41:40|Forward|37|4202|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4198|105:41:45|Aft|36|4193|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4199|105:41:52|Forward|38|4204|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4200|105:41:59|Aft|36|4195|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4201|105:42:06|Forward|38|4206|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4202|105:42:13|Aft|37|4197|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4203|105:42:21|Forward|39|4208|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4204|105:42:28|Aft|38|4199|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4205|105:42:35|Forward|40|4210|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4206|105:42:43|Aft|38|4201|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4207|105:42:50|Forward|41|4212|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4208|105:42:57|Aft|39|4203|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4209|105:43:04|Forward|41|4214|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4210|105:43:11|Aft|40|4205|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4211|105:43:19|Forward|42|4216|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4212|105:43:26|Aft|41|4207|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4213|105:43:33|Forward|43|4218|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4214|105:43:40|Aft|41|4209|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4215|105:43:47|Forward|44|4220|CSM|Rev17|Mendeleev, Hartmann|Panoramic|3414
+AS16-P-4216|105:43:54|Aft|42|4211|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4217|105:44:01|Forward|44|4222|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4218|105:44:08|Aft|43|4213|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4219|105:44:15|Forward|45|4224|CSM|Rev17|Hartmann|Panoramic|3414
+AS16-P-4220|105:44:22|Aft|44|4215|CSM|Rev17|Mendeleev, Hartmann|Panoramic|3414
+AS16-P-4221|105:44:29|Forward|45|4226|CSM|Rev17|East rim of Green|Panoramic|3414
+AS16-P-4222|105:44:36|Aft|44|4217|CSM|Rev17|Mendeleev|Panoramic|3414
+AS16-P-4223|105:44:43|Forward|46|4228|CSM|Rev17|Green, Vetchinkin|Panoramic|3414
+AS16-P-4224|105:44:50|Aft|45|4219|CSM|Rev17|Hartmann|Panoramic|3414
+AS16-P-4225|105:44:57|Forward|47|4230|CSM|Rev17|Green, Vetchinkin|Panoramic|3414
+AS16-P-4226|105:45:04|Aft|45|4221|CSM|Rev17|East rim of Green|Panoramic|3414
+AS16-P-4227|105:45:12|Forward|48|4232|CSM|Rev17|West rim of Green|Panoramic|3414
+AS16-P-4228|105:45:19|Aft|46|4223|CSM|Rev17|Green, Vetchinkin|Panoramic|3414
+AS16-P-4229|105:45:25|Forward|48|4234|CSM|Rev17|West of Green|Panoramic|3414
+AS16-P-4230|105:45:33|Aft|47|4225|CSM|Rev17|Green, Vetchinkin|Panoramic|3414
+AS16-P-4231|105:45:40|Forward|49|4236|CSM|Rev17|West of Green|Panoramic|3414
+AS16-P-4232|105:45:48|Aft|48|4227|CSM|Rev17|West rim of Green|Panoramic|3414
+AS16-P-4233|105:45:55|Forward|50|4238|CSM|Rev17|East of Gregory|Panoramic|3414
+AS16-P-4234|105:46:02|Aft|48|4229|CSM|Rev17|West of Green|Panoramic|3414
+AS16-P-4235|105:46:09|Forward|51|4240|CSM|Rev17|East of Gregory|Panoramic|3414
+AS16-P-4236|105:46:16|Aft|49|4231|CSM|Rev17|West of Green|Panoramic|3414
+AS16-P-4237|105:46:23|Forward|51|4242|CSM|Rev17|Gregory, Morozov|Panoramic|3414
+AS16-P-4238|105:46:31|Aft|50|4233|CSM|Rev17|East of Gregory|Panoramic|3414
+AS16-P-4239|105:46:38|Forward|52|4244|CSM|Rev17|Gregory, Morozov|Panoramic|3414
+AS16-P-4240|105:46:45|Aft|51|4235|CSM|Rev17|East of Gregory|Panoramic|3414
+AS16-P-4241|105:46:52|Forward|53|4246|CSM|Rev17|Gregory, Morozov|Panoramic|3414
+AS16-P-4242|105:46:59|Aft|51|4237|CSM|Rev17|Gregory, Morozov|Panoramic|3414
+AS16-P-4243|105:47:05|Forward|53|4248|CSM|Rev17|West rim of Gregory|Panoramic|3414
+AS16-P-4244|105:47:12|Aft|52|4239|CSM|Rev17|Gregory, Morozov|Panoramic|3414
+AS16-P-4245|105:47:19|Forward|54|4250|CSM|Rev17|West of Gregory|Panoramic|3414
+AS16-P-4246|105:47:27|Aft|53|4241|CSM|Rev17|Gregory, Morozov|Panoramic|3414
+AS16-P-4247|105:47:34|Forward|55|4252|CSM|Rev17|West of Gregory|Panoramic|3414
+AS16-P-4248|105:47:41|Aft|53|4243|CSM|Rev17|West rim of Gregory|Panoramic|3414
+AS16-P-4249|105:47:48|Forward|56|4254|CSM|Rev17|West of Gregory|Panoramic|3414
+AS16-P-4250|105:47:56|Aft|54|4245|CSM|Rev17|West of Gregory|Panoramic|3414
+AS16-P-4251|105:48:03|Forward|56|4256|CSM|Rev17|East of King|Panoramic|3414
+AS16-P-4252|105:48:10|Aft|55|4247|CSM|Rev17|West of Gregory|Panoramic|3414
+AS16-P-4253|105:48:17|Forward|57|4258|CSM|Rev17|East of King|Panoramic|3414
+AS16-P-4254|105:48:24|Aft|56|4249|CSM|Rev17|West of Gregory|Panoramic|3414
+AS16-P-4255|105:48:31|Forward|58|4260|CSM|Rev17|East rim of King|Panoramic|3414
+AS16-P-4256|105:48:39|Aft|56|4251|CSM|Rev17|East of King|Panoramic|3414
+AS16-P-4257|105:48:46|Forward|58|4262|CSM|Rev17|King|Panoramic|3414
+AS16-P-4258|105:48:53|Aft|57|4253|CSM|Rev17|East of King|Panoramic|3414
+AS16-P-4259|105:49:00|Forward|59|4264|CSM|Rev17|King|Panoramic|3414
+AS16-P-4260|105:49:07|Aft|58|4255|CSM|Rev17|East rim of King|Panoramic|3414
+AS16-P-4261|105:49:15|Forward|60|4266|CSM|Rev17|West rim of King|Panoramic|3414
+AS16-P-4262|105:49:20|Aft|58|4257|CSM|Rev17|King|Panoramic|3414
+AS16-P-4263|105:49:26|Forward|60|4268|CSM|Rev17|West of King|Panoramic|3414
+AS16-P-4264|105:49:33|Aft|59|4259|CSM|Rev17|King|Panoramic|3414
+AS16-P-4265|105:49:40|Forward|61|4270|CSM|Rev17|West of King|Panoramic|3414
+AS16-P-4266|105:49:48|Aft|60|4261|CSM|Rev17|West rim of King|Panoramic|3414
+AS16-P-4267|105:49:55|Forward|62|4272|CSM|Rev17|East of Abul Wafa|Panoramic|3414
+AS16-P-4268|105:50:02|Aft|60|4263|CSM|Rev17|West of King|Panoramic|3414
+AS16-P-4269|105:50:09|Forward|63|4274|CSM|Rev17|Abul Wafa|Panoramic|3414
+AS16-P-4270|105:50:17|Aft|61|4265|CSM|Rev17|West of King|Panoramic|3414
+AS16-P-4271|105:50:24|Forward|63|4276|CSM|Rev17|Abul Wafa|Panoramic|3414
+AS16-P-4272|105:50:31|Aft|62|4267|CSM|Rev17|East of Abul Wafa|Panoramic|3414
+AS16-P-4273|105:50:37|Forward|64|4278|CSM|Rev17|Abul Wafa|Panoramic|3414
+AS16-P-4274|105:50:44|Aft|63|4269|CSM|Rev17|Abul Wafa|Panoramic|3414
+AS16-P-4275|105:50:52|Forward|65|4280|CSM|Rev17|Vesalius|Panoramic|3414
+AS16-P-4276|105:50:59|Aft|63|4271|CSM|Rev17|Abul Wafa|Panoramic|3414
+AS16-P-4277|105:51:06|Forward|66|4282|CSM|Rev17|Vesalius|Panoramic|3414
+AS16-P-4278|105:51:13|Aft|64|4273|CSM|Rev17|Abul Wafa|Panoramic|3414
+AS16-P-4279|105:51:20|Forward|66|4284|CSM|Rev17|Buisson, Firsov|Panoramic|3414
+AS16-P-4280|105:51:27|Aft|65|4275|CSM|Rev17|Vesalius|Panoramic|3414
+AS16-P-4281|105:51:34|Forward|67|4286|CSM|Rev17|Buisson, Firsov|Panoramic|3414
+AS16-P-4282|105:51:41|Aft|66|4277|CSM|Rev17|Vesalius|Panoramic|3414
+AS16-P-4283|105:51:49|Forward|68|4288|CSM|Rev17|Buisson|Panoramic|3414
+AS16-P-4284|105:51:56|Aft|66|4279|CSM|Rev17|Buisson, Firsov|Panoramic|3414
+AS16-P-4285|105:52:03|Forward|68|4290|CSM|Rev17|West rim of Buisson|Panoramic|3414
+AS16-P-4286|105:52:09|Aft|67|4281|CSM|Rev17|Buisson, Firsov|Panoramic|3414
+AS16-P-4287|105:52:16|Forward|69|4292|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4288|105:52:23|Aft|68|4283|CSM|Rev17|Buisson|Panoramic|3414
+AS16-P-4289|105:52:30|Forward|70|4294|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4290|105:52:37|Aft|68|4285|CSM|Rev17|West rim of Buisson|Panoramic|3414
+AS16-P-4291|105:52:44|Forward|70|4296|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4292|105:52:50|Aft|69|4287|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4293|105:52:56|Forward|71|4298|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4294|105:53:03|Aft|70|4289|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4295|105:53:10|Forward|72|4300|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4296|105:53:18|Aft|70|4291|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4297|105:53:25|Forward|72|4302|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4298|105:53:32|Aft|71|4293|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4299|105:53:40|Forward|73|4304|CSM|Rev17|East of Saha|Panoramic|3414
+AS16-P-4300|105:53:46|Aft|72|4295|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4301|105:53:53|Forward|74|4306|CSM|Rev17|East of Saha|Panoramic|3414
+AS16-P-4302|105:54:00|Aft|72|4297|CSM|Rev17|West of Buisson|Panoramic|3414
+AS16-P-4303|105:54:08|Forward|74|4308|CSM|Rev17|East of Saha|Panoramic|3414
+AS16-P-4304|105:54:15|Aft|73|4299|CSM|Rev17|East of Saha|Panoramic|3414
+AS16-P-4305|105:54:22|Forward|75|4310|CSM|Rev17|Saha, Saenger|Panoramic|3414
+AS16-P-4306|105:54:29|Aft|74|4301|CSM|Rev17|East of Saha|Panoramic|3414
+AS16-P-4307|105:54:37|Forward|76|4312|CSM|Rev17|Saha, Saenger|Panoramic|3414
+AS16-P-4308|105:54:44|Aft|74|4303|CSM|Rev17|East of Saha|Panoramic|3414
+AS16-P-4309|105:54:51|Forward|77|4314|CSM|Rev17|Saha, Saenger|Panoramic|3414
+AS16-P-4310|105:54:58|Aft|75|4305|CSM|Rev17|Saha, Saenger|Panoramic|3414
+AS16-P-4311|105:55:05|Forward|77|4316|CSM|Rev17|Saha|Panoramic|3414
+AS16-P-4312|105:55:12|Aft|76|4307|CSM|Rev17|Saha, Saenger|Panoramic|3414
+AS16-P-4313|105:55:19|Forward|78|4318|CSM|Rev17|West rim of Saha|Panoramic|3414
+AS16-P-4314|105:55:26|Aft|77|4309|CSM|Rev17|Saha, Saenger|Panoramic|3414
+AS16-P-4315|105:55:34|Forward|79|4320|CSM|Rev17|West of Saha|Panoramic|3414
+AS16-P-4316|105:55:41|Aft|77|4311|CSM|Rev17|Saha|Panoramic|3414
+AS16-P-4317|105:55:48|Forward|79|4322|CSM|Rev17|East of Wyld|Panoramic|3414
+AS16-P-4318|105:55:55|Aft|78|4313|CSM|Rev17|West rim of Saha|Panoramic|3414
+AS16-P-4319|105:56:02|Forward|80|4324|CSM|Rev17|Wyld|Panoramic|3414
+AS16-P-4320|105:56:09|Aft|79|4315|CSM|Rev17|West of Saha|Panoramic|3414
+AS16-P-4321|105:56:16|Forward|80|4326|CSM|Rev17|Wyld|Panoramic|3414
+AS16-P-4322|105:56:24|Aft|79|4317|CSM|Rev17|East of Wyld|Panoramic|3414
+AS16-P-4323|105:56:31|Forward|81|4328|CSM|Rev17|Wyld|Panoramic|3414
+AS16-P-4324|105:56:38|Aft|80|4319|CSM|Rev17|Wyld|Panoramic|3414
+AS16-P-4325|105:56:45|Forward|82|4330|CSM|Rev17|Wyld|Panoramic|3414
+AS16-P-4326|105:56:53|Aft|80|4321|CSM|Rev17|Wyld|Panoramic|3414
+AS16-P-4327|105:57:00|Forward|82|4332|CSM|Rev17|West rim of Wyld|Panoramic|3414
+AS16-P-4328|105:57:08|Aft|81|4323|CSM|Rev17|Wyld|Panoramic|3414
+AS16-P-4329|105:57:15|Forward|83|4334|CSM|Rev17|East rim of Purkyne|Panoramic|3414
+AS16-P-4330|105:57:23|Aft|82|4325|CSM|Rev17|Wyld|Panoramic|3414
+AS16-P-4331|105:57:30|Forward|84|4336|CSM|Rev17|Purkyne, Babcock|Panoramic|3414
+AS16-P-4332|105:57:38|Aft|82|4327|CSM|Rev17|West rim of Wyld|Panoramic|3414
+AS16-P-4333|105:57:45|Forward|84|4338|CSM|Rev17|Purkyne, Babcock|Panoramic|3414
+AS16-P-4334|105:57:52|Aft|83|4329|CSM|Rev17|East rim of Purkyne|Panoramic|3414
+AS16-P-4335|105:58:00|Forward|85|4340|CSM|Rev17|Hirayama, Babcock|Panoramic|3414
+AS16-P-4336|105:58:06|Aft|84|4331|CSM|Rev17|Purkyne, Babcock|Panoramic|3414
+AS16-P-4337|105:58:13|Forward|85|4342|CSM|Rev17|Hirayama, Babcock|Panoramic|3414
+AS16-P-4338|105:58:20|Aft|84|4333|CSM|Rev17|Purkyne, Babcock|Panoramic|3414
+AS16-P-4339|105:58:27|Forward|86|4344|CSM|Rev17|Hirayama|Panoramic|3414
+AS16-P-4340|105:58:35|Aft|85|4335|CSM|Rev17|Hirayama, Babcock|Panoramic|3414
+AS16-P-4341|105:58:42|Forward|86|4346|CSM|Rev17|Hirayama|Panoramic|3414
+AS16-P-4342|105:58:49|Aft|85|4337|CSM|Rev17|Hirayama, Babcock|Panoramic|3414
+AS16-P-4343|105:58:57|Forward|87|NA|CSM|Rev17|Mare Smythii|Panoramic|3414
+AS16-P-4344|105:59:04|Aft|86|4339|CSM|Rev17|Hirayama|Panoramic|3414
+AS16-P-4345|105:59:13|Forward|87|NA|CSM|Rev17|Mare Smythii|Panoramic|3414
+AS16-P-4346|105:59:19|Aft|86|4341|CSM|Rev17|Hirayama|Panoramic|3414
+AS16-P-4347|105:59:27|Forward|87|NA|CSM|Rev17|Mare Smythii|Panoramic|3414
+AS16-P-4348|107:58:25|Forward|86|4353|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4349|107:58:33|Aft|86|NA|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4350|107:58:40|Forward|86|4355|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4351|107:58:48|Aft|86|NA|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4352|107:58:55|Forward|86|4357|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4353|107:59:03|Aft|86|4348|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4354|107:59:10|Forward|85|4359|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4355|107:59:17|Aft|86|4350|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4356|107:59:25|Forward|85|4361|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4357|107:59:32|Aft|86|4352|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4358|107:59:40|Forward|84|4363|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4359|107:59:47|Aft|85|4354|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4360|107:59:54|Forward|84|4365|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4361|108:00:00|Aft|85|4356|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4362|108:00:07|Forward|83|4367|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4363|108:00:14|Aft|84|4358|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4364|108:00:21|Forward|83|4369|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4365|108:00:29|Aft|84|4360|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4366|108:00:36|Forward|82|4371|CSM|Rev 18|Gilbert U|Panoramic|3414
+AS16-P-4367|108:00:43|Aft|83|4362|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4368|108:00:51|Forward|81|4373|CSM|Rev 18|Schubert B|Panoramic|3414
+AS16-P-4369|108:00:58|Aft|83|4364|CSM|Rev 18|Mare Smythii|Panoramic|3414
+AS16-P-4370|108:01:06|Forward|80|4375|CSM|Rev 18|Kastner, G|Panoramic|3414
+AS16-P-4371|108:01:14|Aft|82|4366|CSM|Rev 18|Gilbert U|Panoramic|3414
+AS16-P-4372|108:01:21|Forward|80|4377|CSM|Rev 18|Kastner, G|Panoramic|3414
+AS16-P-4373|108:01:29|Aft|81|4368|CSM|Rev 18|Schubert B|Panoramic|3414
+AS16-P-4374|108:01:36|Forward|79|4379|CSM|Rev 18|Kastner, Gilbert M|Panoramic|3414
+AS16-P-4375|108:01:43|Aft|80|4370|CSM|Rev 18|Kastner, G|Panoramic|3414
+AS16-P-4376|108:01:51|Forward|78|4381|CSM|Rev 18|Kastner, Gilbert N & M|Panoramic|3414
+AS16-P-4377|108:01:58|Aft|80|4372|CSM|Rev 18|Kastner, G|Panoramic|3414
+AS16-P-4378|108:02:06|Forward|78|4383|CSM|Rev 18|Kastner A, Gilbert, N|Panoramic|3414
+AS16-P-4379|108:02:12|Aft|79|4374|CSM|Rev 18|Kastner, Gilbert M|Panoramic|3414
+AS16-P-4380|108:02:20|Forward|77|4385|CSM|Rev 18|Gilbert, Schubert Y|Panoramic|3414
+AS16-P-4381|108:02:27|Aft|78|4376|CSM|Rev 18|Kastner, Gilbert N & M|Panoramic|3414
+AS16-P-4382|108:02:34|Forward|76|4387|CSM|Rev 18|Gilbert|Panoramic|3414
+AS16-P-4383|108:02:42|Aft|78|4378|CSM|Rev 18|Kastner A, Gilbert, N|Panoramic|3414
+AS16-P-4384|108:02:49|Forward|75|4389|CSM|Rev 18|Gilbert|Panoramic|3414
+AS16-P-4385|108:02:56|Aft|77|4380|CSM|Rev 18|Gilbert, Schubert Y|Panoramic|3414
+AS16-P-4386|108:03:03|Forward|75|4391|CSM|Rev 18|West of Gilbert|Panoramic|3414
+AS16-P-4387|108:03:11|Aft|76|4382|CSM|Rev 18|Gilbert|Panoramic|3414
+AS16-P-4388|108:03:18|Forward|74|4393|CSM|Rev 18|Gilbert J & K|Panoramic|3414
+AS16-P-4389|108:03:25|Aft|75|4384|CSM|Rev 18|Gilbert|Panoramic|3414
+AS16-P-4390|108:03:32|Forward|73|4395|CSM|Rev 18|Gilbert J & K|Panoramic|3414
+AS16-P-4391|108:03:39|Aft|75|4386|CSM|Rev 18|West of Gilbert|Panoramic|3414
+AS16-P-4392|108:03:46|Forward|73|4397|CSM|Rev 18|Gilbert J & K|Panoramic|3414
+AS16-P-4393|108:03:53|Aft|74|4388|CSM|Rev 18|Gilbert J & K|Panoramic|3414
+AS16-P-4394|108:04:00|Forward|72|4399|CSM|Rev 18|Maclaurin B, F & L|Panoramic|3414
+AS16-P-4395|108:04:08|Aft|73|4390|CSM|Rev 18|Gilbert J & K|Panoramic|3414
+AS16-P-4396|108:04:15|Forward|71|4401|CSM|Rev 18|Maclaurin B & F|Panoramic|3414
+AS16-P-4397|108:04:22|Aft|73|4392|CSM|Rev 18|Gilbert J & K|Panoramic|3414
+AS16-P-4398|108:04:29|Forward|71|4403|CSM|Rev 18|East of Maclaurin P|Panoramic|3414
+AS16-P-4399|108:04:36|Aft|72|4394|CSM|Rev 18|Maclaurin B, F & L|Panoramic|3414
+AS16-P-4400|108:04:43|Forward|70|4405|CSM|Rev 18|Maclaurin, P & M|Panoramic|3414
+AS16-P-4401|108:04:50|Aft|71|4396|CSM|Rev 18|Maclaurin B & F|Panoramic|3414
+AS16-P-4402|108:04:57|Forward|69|4407|CSM|Rev 18|Maclaurin, P & M|Panoramic|3414
+AS16-P-4403|108:05:04|Aft|71|4398|CSM|Rev 18|East of Maclaurin P|Panoramic|3414
+AS16-P-4404|108:05:12|Forward|68|4409|CSM|Rev 18|Maclaurin, A|Panoramic|3414
+AS16-P-4405|108:05:19|Aft|70|4400|CSM|Rev 18|Maclaurin, P & M|Panoramic|3414
+AS16-P-4406|108:05:26|Forward|67|4411|CSM|Rev 18|Maclaurin K, Langrenus W|Panoramic|3414
+AS16-P-4407|108:05:33|Aft|69|4402|CSM|Rev 18|Maclaurin, P & M|Panoramic|3414
+AS16-P-4408|108:05:40|Forward|67|4413|CSM|Rev 18|Maclaurin U|Panoramic|3414
+AS16-P-4409|108:05:48|Aft|68|4404|CSM|Rev 18|Maclaurin, A|Panoramic|3414
+AS16-P-4410|108:05:55|Forward|66|4415|CSM|Rev 18|Maclaurin E, Langrenus M|Panoramic|3414
+AS16-P-4411|108:06:02|Aft|67|4406|CSM|Rev 18|Maclaurin K, Langrenus W|Panoramic|3414
+AS16-P-4412|108:06:10|Forward|66|4417|CSM|Rev 18|West of Maclaurin E|Panoramic|3414
+AS16-P-4413|108:06:17|Aft|67|4408|CSM|Rev 18|Maclaurin U|Panoramic|3414
+AS16-P-4414|108:06:24|Forward|65|4419|CSM|Rev 18|Maclaurin H|Panoramic|3414
+AS16-P-4415|108:06:32|Aft|66|4410|CSM|Rev 18|Maclaurin E, Langrenus M|Panoramic|3414
+AS16-P-4416|108:06:39|Forward|64|4421|CSM|Rev 18|East of Langrenus|Panoramic|3414
+AS16-P-4417|108:06:46|Aft|66|4412|CSM|Rev 18|West of Maclaurin E|Panoramic|3414
+AS16-P-4418|108:06:53|Forward|63|4423|CSM|Rev 18|Langrenus, T|Panoramic|3414
+AS16-P-4419|108:06:59|Aft|65|4414|CSM|Rev 18|Maclaurin H|Panoramic|3414
+AS16-P-4420|108:07:06|Forward|63|4425|CSM|Rev 18|Langrenus|Panoramic|3414
+AS16-P-4421|108:07:13|Aft|64|4416|CSM|Rev 18|East of Langrenus|Panoramic|3414
+AS16-P-4422|108:07:20|Forward|62|4427|CSM|Rev 18|Langrenus|Panoramic|3414
+AS16-P-4423|108:07:26|Aft|63|4418|CSM|Rev 18|Langrenus, T|Panoramic|3414
+AS16-P-4424|108:07:31|Forward|61|4429|CSM|Rev 18|Langrenus|Panoramic|3414
+AS16-P-4425|108:07:38|Aft|63|4420|CSM|Rev 18|Langrenus|Panoramic|3414
+AS16-P-4426|108:07:44|Forward|61|4431|CSM|Rev 18|Langrenus, C|Panoramic|3414
+AS16-P-4427|108:07:52|Aft|62|4422|CSM|Rev 18|Langrenus|Panoramic|3414
+AS16-P-4428|108:07:58|Forward|60|4433|CSM|Rev 18|Langrenus, C|Panoramic|3414
+AS16-P-4429|108:08:04|Aft|61|4424|CSM|Rev 18|Langrenus|Panoramic|3414
+AS16-P-4430|108:08:09|Forward|60|4435|CSM|Rev 18|Langrenus|Panoramic|3414
+AS16-P-4431|108:08:17|Aft|61|4426|CSM|Rev 18|Langrenus, C|Panoramic|3414
+AS16-P-4432|108:08:23|Forward|59|4437|CSM|Rev 18|Langrenus B & K|Panoramic|3414
+AS16-P-4433|108:08:31|Aft|60|4428|CSM|Rev 18|Langrenus, C|Panoramic|3414
+AS16-P-4434|108:08:36|Forward|58|4439|CSM|Rev 18|Langrenus K & B|Panoramic|3414
+AS16-P-4435|108:08:42|Aft|60|4430|CSM|Rev 18|Langrenus|Panoramic|3414
+AS16-P-4436|108:08:49|Forward|58|4441|CSM|Rev 18|Langrenus F|Panoramic|3414
+AS16-P-4437|108:08:56|Aft|59|4432|CSM|Rev 18|Langrenus B & K|Panoramic|3414
+AS16-P-4438|108:09:03|Forward|57|4443|CSM|Rev 18|Langrenus F|Panoramic|3414
+AS16-P-4439|108:09:10|Aft|58|4434|CSM|Rev 18|Langrenus K & B|Panoramic|3414
+AS16-P-4440|108:09:17|Forward|56|4445|CSM|Rev 18|Langrenus F|Panoramic|3414
+AS16-P-4441|108:09:24|Aft|58|4436|CSM|Rev 18|Langrenus F|Panoramic|3414
+AS16-P-4442|108:09:31|Forward|56|4447|CSM|Rev 18|Mare Fecunditatis|Panoramic|3414
+AS16-P-4443|108:09:38|Aft|57|4438|CSM|Rev 18|Langrenus F|Panoramic|3414
+AS16-P-4444|108:09:45|Forward|55|4449|CSM|Rev 18|Mare Fecunditatis|Panoramic|3414
+AS16-P-4445|108:09:52|Aft|56|4440|CSM|Rev 18|Langrenus F|Panoramic|3414
+AS16-P-4446|108:09:59|Forward|54|4451|CSM|Rev 18|Mare Fecunditatis|Panoramic|3414
+AS16-P-4447|108:10:06|Aft|56|4442|CSM|Rev 18|Mare Fecunditatis|Panoramic|3414
+AS16-P-4448|108:10:13|Forward|53|4453|CSM|Rev 18|Messier G|Panoramic|3414
+AS16-P-4449|108:10:21|Aft|55|4444|CSM|Rev 18|Mare Fecunditatis|Panoramic|3414
+AS16-P-4450|108:10:27|Forward|53|4455|CSM|Rev 18|West of Messier G|Panoramic|3414
+AS16-P-4451|108:10:34|Aft|54|4446|CSM|Rev 18|Mare Fecunditatis|Panoramic|3414
+AS16-P-4452|108:10:42|Forward|52|4457|CSM|Rev 18|East of Goclenius A|Panoramic|3414
+AS16-P-4453|108:10:49|Aft|53|4448|CSM|Rev 18|Messier G|Panoramic|3414
+AS16-P-4454|108:10:56|Forward|52|4459|CSM|Rev 18|Goclenius A|Panoramic|3414
+AS16-P-4455|108:11:03|Aft|53|4450|CSM|Rev 18|West of Messier G|Panoramic|3414
+AS16-P-4456|108:11:10|Forward|51|4461|CSM|Rev 18|Goclenius A|Panoramic|3414
+AS16-P-4457|108:11:17|Aft|52|4452|CSM|Rev 18|East of Goclenius A|Panoramic|3414
+AS16-P-4458|108:11:24|Forward|50|4463|CSM|Rev 18|Mare Fecunditatis|Panoramic|3414
+AS16-P-4459|108:11:29|Aft|52|4454|CSM|Rev 18|Goclenius A|Panoramic|3414
+AS16-P-4460|108:11:35|Forward|49|4465|CSM|Rev 18|Mare Fecunditatis, Messier|Panoramic|3414
+AS16-P-4461|108:11:42|Aft|51|4456|CSM|Rev 18|Goclenius A|Panoramic|3414
+AS16-P-4462|108:11:49|Forward|49|4467|CSM|Rev 18|Mare Fecunditatis, Messier, A|Panoramic|3414
+AS16-P-4463|108:11:56|Aft|50|4458|CSM|Rev 18|Mare Fecunditatis|Panoramic|3414
+AS16-P-4464|108:12:03|Forward|48|4469|CSM|Rev 18|Mare Fecunditatis, Messier A|Panoramic|3414
+AS16-P-4465|108:12:10|Aft|49|4460|CSM|Rev 18|Mare Fecunditatis, Messier|Panoramic|3414
+AS16-P-4466|108:12:17|Forward|47|4471|CSM|Rev 18|Messier D|Panoramic|3414
+AS16-P-4467|108:12:24|Aft|49|4462|CSM|Rev 18|Mare Fecunditatis, Messier, A|Panoramic|3414
+AS16-P-4468|108:12:31|Forward|47|4473|CSM|Rev 18|Goclenius|Panoramic|3414
+AS16-P-4469|108:12:38|Aft|48|4464|CSM|Rev 18|Mare Fecunditatis, Messier A|Panoramic|3414
+AS16-P-4470|108:12:44|Forward|46|4475|CSM|Rev 18|Goclenius|Panoramic|3414
+AS16-P-4471|108:12:51|Aft|47|4466|CSM|Rev 18|Messier D|Panoramic|3414
+AS16-P-4472|108:12:57|Forward|45|4477|CSM|Rev 18|Goclenius, Rimae Goclenius|Panoramic|3414
+AS16-P-4473|108:13:05|Aft|47|4468|CSM|Rev 18|Goclenius|Panoramic|3414
+AS16-P-4474|108:13:11|Forward|44|4479|CSM|Rev 18|Goclenius, Rimae Goclenius|Panoramic|3414
+AS16-P-4475|108:13:18|Aft|46|4470|CSM|Rev 18|Goclenius|Panoramic|3414
+AS16-P-4476|108:13:25|Forward|44|4481|CSM|Rev 18|Rimae Goclenius|Panoramic|3414
+AS16-P-4477|108:13:31|Aft|45|4472|CSM|Rev 18|Goclenius, Rimae Goclenius|Panoramic|3414
+AS16-P-4478|108:13:38|Forward|43|4483|CSM|Rev 18|Gutenberg E & D|Panoramic|3414
+AS16-P-4479|108:13:45|Aft|44|4474|CSM|Rev 18|Goclenius, Rimae Goclenius|Panoramic|3414
+AS16-P-4480|108:13:51|Forward|42|4485|CSM|Rev 18|Gutenberg, E|Panoramic|3414
+AS16-P-4481|108:13:58|Aft|44|4476|CSM|Rev 18|Rimae Goclenius|Panoramic|3414
+AS16-P-4482|108:14:04|Forward|42|4487|CSM|Rev 18|Gutenberg|Panoramic|3414
+AS16-P-4483|108:14:11|Aft|43|4478|CSM|Rev 18|Gutenberg E & D|Panoramic|3414
+AS16-P-4484|108:14:18|Forward|41|4489|CSM|Rev 18|Gutenberg, G|Panoramic|3414
+AS16-P-4485|108:14:25|Aft|42|4480|CSM|Rev 18|Gutenberg, E|Panoramic|3414
+AS16-P-4486|108:14:31|Forward|41|4491|CSM|Rev 18|Gutenberg G|Panoramic|3414
+AS16-P-4487|108:14:38|Aft|42|4482|CSM|Rev 18|Gutenberg|Panoramic|3414
+AS16-P-4488|108:14:45|Forward|40|4493|CSM|Rev 18|Rimae Gutenberg|Panoramic|3414
+AS16-P-4489|108:14:52|Aft|41|4484|CSM|Rev 18|Gutenberg, G|Panoramic|3414
+AS16-P-4490|108:14:59|Forward|39|4495|CSM|Rev 18|Rimae Gutenberg|Panoramic|3414
+AS16-P-4491|108:15:06|Aft|41|4486|CSM|Rev 18|Gutenberg G|Panoramic|3414
+AS16-P-4492|108:15:13|Forward|39|4497|CSM|Rev 18|Rimae Gutenberg|Panoramic|3414
+AS16-P-4493|108:15:20|Aft|40|4488|CSM|Rev 18|Rimae Gutenberg|Panoramic|3414
+AS16-P-4494|108:15:27|Forward|38|4499|CSM|Rev 18|East of Capella|Panoramic|3414
+AS16-P-4495|108:15:33|Aft|39|4490|CSM|Rev 18|Rimae Gutenberg|Panoramic|3414
+AS16-P-4496|108:15:40|Forward|37|4501|CSM|Rev 18|East of Capella|Panoramic|3414
+AS16-P-4497|108:15:47|Aft|39|4492|CSM|Rev 18|Rimae Gutenberg|Panoramic|3414
+AS16-P-4498|108:15:54|Forward|37|4503|CSM|Rev 18|East of Capella|Panoramic|3414
+AS16-P-4499|108:16:00|Aft|38|4494|CSM|Rev 18|East of Capella|Panoramic|3414
+AS16-P-4500|108:16:07|Forward|36|4505|CSM|Rev 18|Capella|Panoramic|3414
+AS16-P-4501|108:16:14|Aft|37|4496|CSM|Rev 18|East of Capella|Panoramic|3414
+AS16-P-4502|108:16:21|Forward|35|4507|CSM|Rev 18|Capella|Panoramic|3414
+AS16-P-4503|108:16:28|Aft|37|4498|CSM|Rev 18|East of Capella|Panoramic|3414
+AS16-P-4504|108:16:35|Forward|34|4509|CSM|Rev 18|Isidorus, Daguerre|Panoramic|3414
+AS16-P-4505|108:16:41|Aft|36|4500|CSM|Rev 18|Capella|Panoramic|3414
+AS16-P-4506|108:16:48|Forward|34|4511|CSM|Rev 18|Isidorus, Daguerre|Panoramic|3414
+AS16-P-4507|108:16:55|Aft|35|4502|CSM|Rev 18|Capella|Panoramic|3414
+AS16-P-4508|108:17:01|Forward|33|4513|CSM|Rev 18|West of Isidorus|Panoramic|3414
+AS16-P-4509|108:17:08|Aft|34|4504|CSM|Rev 18|Isidorus, Daguerre|Panoramic|3414
+AS16-P-4510|108:17:15|Forward|32|4515|CSM|Rev 18|West of Isidorus|Panoramic|3414
+AS16-P-4511|108:17:21|Aft|34|4506|CSM|Rev 18|Isidorus, Daguerre|Panoramic|3414
+AS16-P-4512|108:17:28|Forward|32|4517|CSM|Rev 18|West of Isidorus|Panoramic|3414
+AS16-P-4513|108:17:34|Aft|33|4508|CSM|Rev 18|West of Isidorus|Panoramic|3414
+AS16-P-4514|108:17:41|Forward|31|4519|CSM|Rev 18|Madler|Panoramic|3414
+AS16-P-4515|108:17:48|Aft|32|4510|CSM|Rev 18|West of Isidorus|Panoramic|3414
+AS16-P-4516|108:17:54|Forward|31|4521|CSM|Rev 18|Madler|Panoramic|3414
+AS16-P-4517|108:18:01|Aft|32|4512|CSM|Rev 18|West of Isidorus|Panoramic|3414
+AS16-P-4518|108:18:08|Forward|30|4523|CSM|Rev 18|Madler, Torricelli, R|Panoramic|3414
+AS16-P-4519|108:18:14|Aft|31|4514|CSM|Rev 18|Madler|Panoramic|3414
+AS16-P-4520|108:18:21|Forward|29|4525|CSM|Rev 18|Torricelli, R|Panoramic|3414
+AS16-P-4521|108:18:28|Aft|31|4516|CSM|Rev 18|Madler|Panoramic|3414
+AS16-P-4522|108:18:34|Forward|28|4527|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4523|108:18:41|Aft|30|4518|CSM|Rev 18|Madler, Torricelli, R|Panoramic|3414
+AS16-P-4524|108:18:46|Forward|28|4529|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4525|108:18:52|Aft|29|4520|CSM|Rev 18|Torricelli, R|Panoramic|3414
+AS16-P-4526|108:18:59|Forward|27|4531|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4527|108:19:05|Aft|28|4522|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4528|108:19:12|Forward|26|4533|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4529|108:19:18|Aft|28|4524|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4530|108:19:25|Forward|26|4535|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4531|108:19:32|Aft|27|4526|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4532|108:19:38|Forward|25|4537|CSM|Rev 18|Cyrillus|Panoramic|3414
+AS16-P-4533|108:19:44|Aft|26|4528|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4534|108:19:49|Forward|25|4539|CSM|Rev 18|Cyrillus|Panoramic|3414
+AS16-P-4535|108:19:56|Aft|26|4530|CSM|Rev 18|Theophilus|Panoramic|3414
+AS16-P-4536|108:20:02|Forward|24|4541|CSM|Rev 18|Cyrillus, Hypatia|Panoramic|3414
+AS16-P-4537|108:20:09|Aft|25|4532|CSM|Rev 18|Cyrillus|Panoramic|3414
+AS16-P-4538|108:20:15|Forward|23|4543|CSM|Rev 18|Cyrillus, Hypatia|Panoramic|3414
+AS16-P-4539|108:20:22|Aft|25|4534|CSM|Rev 18|Cyrillus|Panoramic|3414
+AS16-P-4540|108:20:29|Forward|23|4545|CSM|Rev 18|Cyrillus B|Panoramic|3414
+AS16-P-4541|108:20:36|Aft|24|4536|CSM|Rev 18|Cyrillus, Hypatia|Panoramic|3414
+AS16-P-4542|108:20:42|Forward|22|4547|CSM|Rev 18|Kant E|Panoramic|3414
+AS16-P-4543|108:20:49|Aft|23|4538|CSM|Rev 18|Cyrillus, Hypatia|Panoramic|3414
+AS16-P-4544|108:20:55|Forward|21|4549|CSM|Rev 18|Kant|Panoramic|3414
+AS16-P-4545|108:21:02|Aft|23|4540|CSM|Rev 18|Cyrillus B|Panoramic|3414
+AS16-P-4546|108:21:08|Forward|21|4551|CSM|Rev 18|Kant, G|Panoramic|3414
+AS16-P-4547|108:21:15|Aft|22|4542|CSM|Rev 18|Kant E|Panoramic|3414
+AS16-P-4548|108:21:21|Forward|20|4553|CSM|Rev 18|Zollner, Kant D|Panoramic|3414
+AS16-P-4549|108:21:29|Aft|21|4544|CSM|Rev 18|Kant|Panoramic|3414
+AS16-P-4550|108:21:35|Forward|19|4555|CSM|Rev 18|Zollner, Kant D|Panoramic|3414
+AS16-P-4551|108:21:42|Aft|21|4546|CSM|Rev 18|Kant, G|Panoramic|3414
+AS16-P-4552|108:21:48|Forward|19|4557|CSM|Rev 18|West of Zollner|Panoramic|3414
+AS16-P-4553|108:21:55|Aft|20|4548|CSM|Rev 18|Zollner, Kant D|Panoramic|3414
+AS16-P-4554|108:22:01|Forward|18|4559|CSM|Rev 18|East of Descartes|Panoramic|3414
+AS16-P-4555|108:22:09|Aft|19|4550|CSM|Rev 18|Zollner, Kant D|Panoramic|3414
+AS16-P-4556|108:22:16|Forward|17|4561|CSM|Rev 18|East of Descartes|Panoramic|3414
+AS16-P-4557|108:22:22|Aft|19|4552|CSM|Rev 18|West of Zollner|Panoramic|3414
+AS16-P-4558|108:22:29|Forward|17|4563|CSM|Rev 18|Descartes|Panoramic|3414
+AS16-P-4559|108:22:36|Aft|18|4554|CSM|Rev 18|East of Descartes|Panoramic|3414
+AS16-P-4560|108:22:42|Forward|16|4565|CSM|Rev 18|Apollo 16 landing site, Descartes|Panoramic|3414
+AS16-P-4561|108:22:49|Aft|17|4556|CSM|Rev 18|East of Descartes|Panoramic|3414
+AS16-P-4562|108:22:55|Forward|15|4567|CSM|Rev 18|Abulfeda, Dollond, B|Panoramic|3414
+AS16-P-4563|108:23:02|Aft|17|4558|CSM|Rev 18|Descartes|Panoramic|3414
+AS16-P-4564|108:23:08|Forward|15|4569|CSM|Rev 18|Abulfeda, Dollond B|Panoramic|3414
+AS16-P-4565|108:23:14|Aft|16|4560|CSM|Rev 18|Apollo 16 landing site, Descartes|Panoramic|3414
+AS16-P-4566|108:23:21|Forward|14|4571|CSM|Rev 18|Andel, Dollond C|Panoramic|3414
+AS16-P-4567|108:23:27|Aft|15|4562|CSM|Rev 18|Abulfeda, Dollond, B|Panoramic|3414
+AS16-P-4568|108:23:34|Forward|13|4573|CSM|Rev 18|Andel|Panoramic|3414
+AS16-P-4569|108:23:40|Aft|15|4564|CSM|Rev 18|Abulfeda, Dollond B|Panoramic|3414
+AS16-P-4570|108:23:46|Forward|12|4575|CSM|Rev 18|West of Andel|Panoramic|3414
+AS16-P-4571|108:23:53|Aft|14|4566|CSM|Rev 18|Andel, Dollond C|Panoramic|3414
+AS16-P-4572|108:23:59|Forward|11|4577|CSM|Rev 18|West of Andel|Panoramic|3414
+AS16-P-4573|108:24:05|Aft|13|4568|CSM|Rev 18|Andel|Panoramic|3414
+AS16-P-4574|108:24:12|Forward|11|4579|CSM|Rev 18|East of Ritchey|Panoramic|3414
+AS16-P-4575|108:24:18|Aft|12|4570|CSM|Rev 18|West of Andel|Panoramic|3414
+AS16-P-4576|108:24:24|Forward|11|4581|CSM|Rev 18|East of Ritchey|Panoramic|3414
+AS16-P-4577|108:24:31|Aft|11|4572|CSM|Rev 18|West of Andel|Panoramic|3414
+AS16-P-4578|108:24:37|Forward|10|4583|CSM|Rev 18|Ritchey|Panoramic|3414
+AS16-P-4579|108:24:43|Aft|11|4574|CSM|Rev 18|East of Ritchey|Panoramic|3414
+AS16-P-4580|108:24:49|Forward|9|4585|CSM|Rev 18|Hipparchus C, Ritchey|Panoramic|3414
+AS16-P-4581|108:24:56|Aft|11|4576|CSM|Rev 18|East of Ritchey|Panoramic|3414
+AS16-P-4582|108:25:02|Forward|9|4587|CSM|Rev 18|Hind|Panoramic|3414
+AS16-P-4583|108:25:08|Aft|10|4578|CSM|Rev 18|Ritchey|Panoramic|3414
+AS16-P-4584|108:25:15|Forward|8|4589|CSM|Rev 18|Hind|Panoramic|3414
+AS16-P-4585|108:25:21|Aft|9|4580|CSM|Rev 18|Hipparchus C, Ritchey|Panoramic|3414
+AS16-P-4586|108:25:27|Forward|8|4591|CSM|Rev 18|Hipparchus|Panoramic|3414
+AS16-P-4587|108:25:34|Aft|9|4582|CSM|Rev 18|Hind|Panoramic|3414
+AS16-P-4588|108:25:40|Forward|7|4593|CSM|Rev 18|Halley, Hipparchus|Panoramic|3414
+AS16-P-4589|108:25:46|Aft|8|4584|CSM|Rev 18|Hind|Panoramic|3414
+AS16-P-4590|108:25:52|Forward|6|4595|CSM|Rev 18|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4591|108:25:58|Aft|8|4586|CSM|Rev 18|Hipparchus|Panoramic|3414
+AS16-P-4592|108:26:04|Forward|6|4597|CSM|Rev 18|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4593|108:26:10|Aft|7|4588|CSM|Rev 18|Halley, Hipparchus|Panoramic|3414
+AS16-P-4594|108:26:17|Forward|5|4599|CSM|Rev 18|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4595|108:26:24|Aft|6|4590|CSM|Rev 18|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4596|108:26:30|Forward|4|4601|CSM|Rev 18|Albategnius, Hipparchus J|Panoramic|3414
+AS16-P-4597|108:26:26|Aft|6|4592|CSM|Rev 18|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4598|108:26:42|Forward|4|4603|CSM|Rev 18|Klein|Panoramic|3414
+AS16-P-4599|108:26:49|Aft|5|4594|CSM|Rev 18|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4600|108:26:54|Forward|3|4605|CSM|Rev 18|Albategnius G|Panoramic|3414
+AS16-P-4601|108:27:01|Aft|4|4596|CSM|Rev 18|Albategnius, Hipparchus J|Panoramic|3414
+AS16-P-4602|108:27:07|Forward|3|4607|CSM|Rev 18|Albategnius G|Panoramic|3414
+AS16-P-4603|108:27:13|Aft|4|4598|CSM|Rev 18|Klein|Panoramic|3414
+AS16-P-4604|108:27:19|Forward|2|4609|CSM|Rev 18|Glyden|Panoramic|3414
+AS16-P-4605|108:27:25|Aft|3|4600|CSM|Rev 18|Albategnius G|Panoramic|3414
+AS16-P-4606|108:27:31|Forward|1|4611|CSM|Rev 18|Ptolemaeus|Panoramic|3414
+AS16-P-4607|108:27:37|Aft|3|4602|CSM|Rev 18|Albategnius G|Panoramic|3414
+AS16-P-4608|108:27:43|Forward|1|4613|CSM|Rev 18|Ptolemaeus|Panoramic|3414
+AS16-P-4609|108:27:49|Aft|2|4604|CSM|Rev 18|Glyden|Panoramic|3414
+AS16-P-4610|108:27:55|Forward|0|NA|CSM|Rev 18|Ptolemaeus|Panoramic|3414
+AS16-P-4611|108:28:02|Aft|1|4606|CSM|Rev 18|Ptolemaeus|Panoramic|3414
+AS16-P-4612|108:28:08|Forward|0|NA|CSM|Rev 18|Ptolemaeus|Panoramic|3414
+AS16-P-4613|108:28:14|Aft|1|4608|CSM|Rev 18|Ptolemaeus|Panoramic|3414
+AS16-P-4614|128:07:32|Forward|28|4619|CSM|Rev 28|Taylor|Panoramic|3414
+AS16-P-4615|128:07:39|Aft|30|NA|CSM|Rev 28|Kant D, Zollner|Panoramic|3414
+AS16-P-4616|128:07:46|Forward|27|4621|CSM|Rev 28|Descartes|Panoramic|3414
+AS16-P-4617|128:07:53|Aft|29|NA|CSM|Rev 28|West of Zollner|Panoramic|3414
+AS16-P-4618|128:07:59|Forward|27|4623|CSM|Rev 28|Apollo 16 landing site|Panoramic|3414
+AS16-P-4619|128:08:06|Aft|28|NA|CSM|Rev 28|Taylor|Panoramic|3414
+AS16-P-4620|128:08:13|Forward|26|4625|CSM|Rev 28|Dollond, B|Panoramic|3414
+AS16-P-4621|128:08:19|Aft|27|4616|CSM|Rev 28|Descartes|Panoramic|3414
+AS16-P-4622|128:08:26|Forward|25|4627|CSM|Rev 28|Dollond B|Panoramic|3414
+AS16-P-4623|128:08:32|Aft|27|4618|CSM|Rev 28|Apollo 16 landing site|Panoramic|3414
+AS16-P-4624|128:08:39|Forward|25|NA|CSM|Rev 28|Dollond C|Panoramic|3414
+AS16-P-4625|128:08:45|Aft|26|4620|CSM|Rev 28|Dollond, B|Panoramic|3414
+AS16-P-4626|128:08:52|Forward|24|NA|CSM|Rev 28|Andel|Panoramic|3414
+AS16-P-4627|128:08:59|Aft|25|4622|CSM|Rev 28|Dollond B|Panoramic|3414
+AS16-P-4628|147:55:38|Forward|29|4633|CSM|Rev 38|Hind|Panoramic|3414
+AS16-P-4629|147:55:44|Aft|31|NA|CSM|Rev 38|East of Hipparchus C|Panoramic|3414
+AS16-P-4630|147:55:51|Forward|28|4635|CSM|Rev 38|Hind|Panoramic|3414
+AS16-P-4631|147:55:58|Aft|30|NA|CSM|Rev 38|Hipparchus C, Ritchey|Panoramic|3414
+AS16-P-4632|147:56:05|Forward|27|4637|CSM|Rev 38|Halley, Hipparchus|Panoramic|3414
+AS16-P-4633|147:56:12|Aft|29|4628|CSM|Rev 38|Hind|Panoramic|3414
+AS16-P-4634|147:56:18|Forward|27|4639|CSM|Rev 38|Albategnius, Halley|Panoramic|3414
+AS16-P-4635|147:56:25|Aft|28|4630|CSM|Rev 38|Hind|Panoramic|3414
+AS16-P-4636|147:56:32|Forward|26|4641|CSM|Rev 38|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4637|147:56:39|Aft|27|4632|CSM|Rev 38|Halley, Hipparchus|Panoramic|3414
+AS16-P-4638|147:56:45|Forward|25|4643|CSM|Rev 38|Albategnius, Hiiparchus|Panoramic|3414
+AS16-P-4639|147:56:53|Aft|27|4634|CSM|Rev 38|Albategnius, Halley|Panoramic|3414
+AS16-P-4640|147:57:00|Forward|25|4645|CSM|Rev 38|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4641|147:57:07|Aft|26|4636|CSM|Rev 38|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4642|147:57:14|Forward|24|4647|CSM|Rev 38|Klein|Panoramic|3414
+AS16-P-4643|147:57:22|Aft|25|4638|CSM|Rev 38|Albategnius, Hiiparchus|Panoramic|3414
+AS16-P-4644|147:57:28|Forward|23|4649|CSM|Rev 38|Klein, Muller|Panoramic|3414
+AS16-P-4645|147:57:35|Aft|25|4640|CSM|Rev 38|Albategnius, Hipparchus|Panoramic|3414
+AS16-P-4646|147:57:42|Forward|22|4651|CSM|Rev 38|Albategnius G|Panoramic|3414
+AS16-P-4647|147:57:49|Aft|24|4642|CSM|Rev 38|Klein|Panoramic|3414
+AS16-P-4648|147:57:57|Forward|22|4653|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4649|147:58:04|Aft|23|4644|CSM|Rev 38|Klein, Muller|Panoramic|3414
+AS16-P-4650|147:58:11|Forward|21|4655|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4651|147:58:18|Aft|22|4646|CSM|Rev 38|Albategnius G|Panoramic|3414
+AS16-P-4652|147:58:24|Forward|21|4657|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4653|147:58:30|Aft|22|4648|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4654|147:58:37|Forward|20|4659|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4655|147:58:44|Aft|21|4650|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4656|147:58:51|Forward|19|4661|CSM|Rev 38|Alphonsus, Herschel, Ptolemaeus|Panoramic|3414
+AS16-P-4657|147:58:58|Aft|21|4652|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4658|147:59:04|Forward|18|4663|CSM|Rev 38|Alphonsus, Ptolemaeus|Panoramic|3414
+AS16-P-4659|147:59:10|Aft|20|4654|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4660|147:59:17|Forward|18|4665|CSM|Rev 38|Alphonsus, Ptolemaeus|Panoramic|3414
+AS16-P-4661|147:59:24|Aft|19|4656|CSM|Rev 38|Alphonsus, Herschel, Ptolemaeus|Panoramic|3414
+AS16-P-4662|147:59:30|Forward|17|4667|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4663|147:59:37|Aft|18|4658|CSM|Rev 38|Alphonsus, Ptolemaeus|Panoramic|3414
+AS16-P-4664|147:59:44|Forward|16|4669|CSM|Rev 38|Ptolemaeus E|Panoramic|3414
+AS16-P-4665|147:59:51|Aft|18|4660|CSM|Rev 38|Alphonsus, Ptolemaeus|Panoramic|3414
+AS16-P-4666|147:59:57|Forward|16|4671|CSM|Rev 38|Davy G|Panoramic|3414
+AS16-P-4667|148:00:04|Aft|17|4662|CSM|Rev 38|Ptolemaeus|Panoramic|3414
+AS16-P-4668|148:00:10|Forward|15|4673|CSM|Rev 38|Catena Davy, Davy Y|Panoramic|3414
+AS16-P-4669|148:00:17|Aft|16|4664|CSM|Rev 38|Ptolemaeus E|Panoramic|3414
+AS16-P-4670|148:00:24|Forward|14|4675|CSM|Rev 38|Catena Davy, Davy Y|Panoramic|3414
+AS16-P-4671|148:00:31|Aft|16|4666|CSM|Rev 38|Davy G|Panoramic|3414
+AS16-P-4672|148:00:37|Forward|14|4677|CSM|Rev 38|Davy Y|Panoramic|3414
+AS16-P-4673|148:00:44|Aft|15|4668|CSM|Rev 38|Catena Davy, Davy Y|Panoramic|3414
+AS16-P-4674|148:00:51|Forward|13|4679|CSM|Rev 38|Davy, Palisa T|Panoramic|3414
+AS16-P-4675|148:00:58|Aft|14|4670|CSM|Rev 38|Catena Davy, Davy Y|Panoramic|3414
+AS16-P-4676|148:01:04|Forward|12|4681|CSM|Rev 38|West of Palisa T|Panoramic|3414
+AS16-P-4677|148:01:10|Aft|14|4672|CSM|Rev 38|Davy Y|Panoramic|3414
+AS16-P-4678|148:01:16|Forward|12|4683|CSM|Rev 38|Lalande A|Panoramic|3414
+AS16-P-4679|148:01:22|Aft|13|4674|CSM|Rev 38|Davy, Palisa T|Panoramic|3414
+AS16-P-4680|148:01:29|Forward|11|4685|CSM|Rev 38|Lalande A|Panoramic|3414
+AS16-P-4681|148:01:36|Aft|12|4676|CSM|Rev 38|West of Palisa T|Panoramic|3414
+AS16-P-4682|148:01:42|Forward|10|4687|CSM|Rev 38|West of Lalande A|Panoramic|3414
+AS16-P-4683|148:01:49|Aft|12|4678|CSM|Rev 38|Lalande A|Panoramic|3414
+AS16-P-4684|148:01:55|Forward|10|4689|CSM|Rev 38|Guericke C|Panoramic|3414
+AS16-P-4685|148:02:01|Aft|11|4680|CSM|Rev 38|Lalande A|Panoramic|3414
+AS16-P-4686|148:02:07|Forward|9|4691|CSM|Rev 38|West of Guericke C|Panoramic|3414
+AS16-P-4687|148:02:13|Aft|10|4682|CSM|Rev 38|West of Lalande A|Panoramic|3414
+AS16-P-4688|148:02:20|Forward|8|4693|CSM|Rev 38|East of Guericke|Panoramic|3414
+AS16-P-4689|148:02:26|Aft|10|4684|CSM|Rev 38|Guericke C|Panoramic|3414
+AS16-P-4690|148:02:33|Forward|8|4695|CSM|Rev 38|East of Guericke|Panoramic|3414
+AS16-P-4691|148:02:40|Aft|9|4686|CSM|Rev 38|West of Guericke C|Panoramic|3414
+AS16-P-4692|148:02:46|Forward|7|4697|CSM|Rev 38|Guericke, Parry M|Panoramic|3414
+AS16-P-4693|148:02:53|Aft|8|4688|CSM|Rev 38|East of Guericke|Panoramic|3414
+AS16-P-4694|148:03:00|Forward|7|4699|CSM|Rev 38|Guericke, Parry M|Panoramic|3414
+AS16-P-4695|148:03:06|Aft|8|4690|CSM|Rev 38|East of Guericke|Panoramic|3414
+AS16-P-4696|148:03:13|Forward|6|4701|CSM|Rev 38|Parry|Panoramic|3414
+AS16-P-4697|148:03:20|Aft|7|4692|CSM|Rev 38|Guericke, Parry M|Panoramic|3414
+AS16-P-4698|148:03:26|Forward|5|4703|CSM|Rev 38|Fra Mauro, Parry, A|Panoramic|3414
+AS16-P-4699|148:03:33|Aft|7|4694|CSM|Rev 38|Guericke, Parry M|Panoramic|3414
+AS16-P-4700|148:03:40|Forward|5|4705|CSM|Rev 38|Fra Mauro, Rimae Parry|Panoramic|3414
+AS16-P-4701|148:03:46|Aft|6|4696|CSM|Rev 38|Parry|Panoramic|3414
+AS16-P-4702|148:03:53|Forward|4|4707|CSM|Rev 38|Bonpland, Fra Mauro|Panoramic|3414
+AS16-P-4703|148:04:00|Aft|5|4698|CSM|Rev 38|Fra Mauro, Parry, A|Panoramic|3414
+AS16-P-4704|148:04:07|Forward|3|4709|CSM|Rev 38|Bonpland|Panoramic|3414
+AS16-P-4705|148:04:13|Aft|5|4700|CSM|Rev 38|Fra Mauro, Rimae Parry|Panoramic|3414
+AS16-P-4706|148:04:20|Forward|2|4711|CSM|Rev 38|Bonpland|Panoramic|3414
+AS16-P-4707|148:04:27|Aft|4|4702|CSM|Rev 38|Bonpland, Fra Mauro|Panoramic|3414
+AS16-P-4708|148:04:34|Forward|2|4713|CSM|Rev 38|West of Bonpland|Panoramic|3414
+AS16-P-4709|148:04:41|Aft|3|4704|CSM|Rev 38|Bonpland|Panoramic|3414
+AS16-P-4710|148:04:47|Forward|1|4715|CSM|Rev 38|West of Bonpland|Panoramic|3414
+AS16-P-4711|148:04:54|Aft|2|4706|CSM|Rev 38|Bonpland|Panoramic|3414
+AS16-P-4712|148:05:00|Forward|1|NA|CSM|Rev 38|Mare Cognitum|Panoramic|3414
+AS16-P-4713|148:05:07|Aft|2|4708|CSM|Rev 38|West of Bonpland|Panoramic|3414
+AS16-P-4714|148:05:13|Forward|-1|NA|CSM|Rev 38|Mare Cognitum|Panoramic|3414
+AS16-P-4715|148:05:20|Aft|1|4710|CSM|Rev 38|West of Bonpland|Panoramic|3414
+AS16-P-4716|148:05:27|Forward|-1|NA|CSM|Rev 38|Mare Cognitum|Panoramic|3414
+AS16-P-4717|149:04:47|Forward|1|4722|CSM|Rev 39|East of Mills|Panoramic|3414
+AS16-P-4718|149:04:53|Aft|-1|NA|CSM|Rev 39|East of Mills|Panoramic|3414
+AS16-P-4719|149:04:59|Forward|1|4724|CSM|Rev 39|Mills|Panoramic|3414
+AS16-P-4720|149:05:05|Aft|0|NA|CSM|Rev 39|East of Mills|Panoramic|3414
+AS16-P-4721|149:05:11|Forward|2|4726|CSM|Rev 39|Mills|Panoramic|3414
+AS16-P-4722|149:05:18|Aft|1|4717|CSM|Rev 39|East of Mills|Panoramic|3414
+AS16-P-4723|149:05:24|Forward|3|4728|CSM|Rev 39|West of Mills|Panoramic|3414
+AS16-P-4724|149:05:30|Aft|1|4719|CSM|Rev 39|Mills|Panoramic|3414
+AS16-P-4725|149:05:37|Forward|3|4730|CSM|Rev 39|West of Mills|Panoramic|3414
+AS16-P-4726|149:05:43|Aft|2|4721|CSM|Rev 39|Mills|Panoramic|3414
+AS16-P-4727|149:05:49|Forward|4|4732|CSM|Rev 39|West of Mills|Panoramic|3414
+AS16-P-4728|149:05:55|Aft|3|4723|CSM|Rev 39|West of Mills|Panoramic|3414
+AS16-P-4729|149:06:01|Forward|5|4734|CSM|Rev 39|Henderson|Panoramic|3414
+AS16-P-4730|149:06:08|Aft|3|4725|CSM|Rev 39|West of Mills|Panoramic|3414
+AS16-P-4731|149:06:14|Forward|5|4746|CSM|Rev 39|Henderson|Panoramic|3414
+AS16-P-4732|149:06:22|Aft|4|4727|CSM|Rev 39|West of Mills|Panoramic|3414
+AS16-P-4733|149:06:29|Forward|6|4738|CSM|Rev 39|Henderson|Panoramic|3414
+AS16-P-4734|149:06:35|Aft|5|4729|CSM|Rev 39|Henderson|Panoramic|3414
+AS16-P-4735|149:06:41|Forward|6|4740|CSM|Rev 39|St.John|Panoramic|3414
+AS16-P-4736|149:06:47|Aft|5|4731|CSM|Rev 39|Henderson|Panoramic|3414
+AS16-P-4737|149:06:54|Forward|7|4742|CSM|Rev 39|St.John|Panoramic|3414
+AS16-P-4738|149:07:01|Aft|6|4733|CSM|Rev 39|Henderson|Panoramic|3414
+AS16-P-4739|149:07:08|Forward|8|4744|CSM|Rev 39|West of St.John|Panoramic|3414
+AS16-P-4740|149:07:14|Aft|6|4735|CSM|Rev 39|St.John|Panoramic|3414
+AS16-P-4741|149:07:20|Forward|9|4746|CSM|Rev 39|West of St.John|Panoramic|3414
+AS16-P-4742|149:07:27|Aft|7|4737|CSM|Rev 39|St.John|Panoramic|3414
+AS16-P-4743|149:07:32|Forward|9|4748|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4744|149:07:38|Aft|8|4739|CSM|Rev 39|West of St.John|Panoramic|3414
+AS16-P-4745|149:07:44|Forward|10|4750|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4746|149:07:51|Aft|9|4741|CSM|Rev 39|West of St.John|Panoramic|3414
+AS16-P-4747|149:07:57|Forward|11|4752|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4748|149:08:04|Aft|9|4743|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4749|149:08:10|Forward|11|4754|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4750|149:08:16|Aft|10|4745|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4751|149:08:22|Forward|12|4756|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4752|149:08:29|Aft|11|4747|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4753|149:08:35|Forward|13|4758|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4754|149:08:43|Aft|11|4749|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4755|149:08:50|Forward|13|4760|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4756|149:08:58|Aft|12|4751|CSM|Rev 39|Schuster|Panoramic|3414
+AS16-P-4757|149:09:05|Forward|13|4762|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4758|149:09:12|Aft|13|4753|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4759|149:09:19|Forward|14|4764|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4760|149:09:26|Aft|13|4755|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4761|149:09:32|Forward|15|4766|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4762|149:09:38|Aft|13|4757|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4763|149:09:45|Forward|16|4768|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4764|149:09:53|Aft|14|4759|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4765|149:10:00|Forward|17|4770|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4766|149:10:07|Aft|15|4761|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4767|149:10:14|Forward|18|4772|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4768|149:10:20|Aft|16|4763|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4769|149:10:27|Forward|18|4774|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4770|149:10:33|Aft|17|4765|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4771|149:10:40|Forward|19|4776|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4772|149:10:46|Aft|18|4767|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4773|149:10:53|Forward|20|4778|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4774|149:11:00|Aft|18|4769|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4775|149:11:06|Forward|20|4780|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4776|149:11:13|Aft|19|4771|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4777|149:11:19|Forward|21|4782|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4778|149:11:25|Aft|20|4773|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4779|149:11:32|Forward|22|4784|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4780|149:11:38|Aft|20|4775|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4781|149:11:44|Forward|22|4786|CSM|Rev 39|Hartmann|Panoramic|3414
+AS16-P-4782|149:11:50|Aft|21|4777|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4783|149:11:57|Forward|23|4788|CSM|Rev 39|Hartmann|Panoramic|3414
+AS16-P-4784|149:12:05|Aft|22|4779|CSM|Rev 39|Mendeleev|Panoramic|3414
+AS16-P-4785|149:12:11|Forward|23|4790|CSM|Rev 39|Green|Panoramic|3414
+AS16-P-4786|149:12:18|Aft|22|4781|CSM|Rev 39|Hartmann|Panoramic|3414
+AS16-P-4787|149:12:24|Forward|24|4792|CSM|Rev 39|Green|Panoramic|3414
+AS16-P-4788|149:12:30|Aft|23|4783|CSM|Rev 39|Hartmann|Panoramic|3414
+AS16-P-4789|149:12:36|Forward|25|4794|CSM|Rev 39|Green|Panoramic|3414
+AS16-P-4790|149:12:43|Aft|23|4785|CSM|Rev 39|Green|Panoramic|3414
+AS16-P-4791|149:12:49|Forward|25|4796|CSM|Rev 39|Green, Vetchinkin|Panoramic|3414
+AS16-P-4792|149:12:56|Aft|24|4787|CSM|Rev 39|Green|Panoramic|3414
+AS16-P-4793|149:13:02|Forward|26|4798|CSM|Rev 39|Vetchinkin|Panoramic|3414
+AS16-P-4794|149:13:09|Aft|25|4789|CSM|Rev 39|Green|Panoramic|3414
+AS16-P-4795|149:13:16|Forward|27|4800|CSM|Rev 39|West of Vetchinkin|Panoramic|3414
+AS16-P-4796|149:13:22|Aft|25|4791|CSM|Rev 39|Green, Vetchinkin|Panoramic|3414
+AS16-P-4797|149:13:29|Forward|27|4802|CSM|Rev 39|West of Vetchinkin|Panoramic|3414
+AS16-P-4798|149:13:35|Aft|26|4793|CSM|Rev 39|Vetchinkin|Panoramic|3414
+AS16-P-4799|149:13:42|Forward|28|4804|CSM|Rev 39|West of Vetchinkin|Panoramic|3414
+AS16-P-4800|149:13:49|Aft|27|4795|CSM|Rev 39|West of Vetchinkin|Panoramic|3414
+AS16-P-4801|149:13:57|Forward|29|4806|CSM|Rev 39|East of Morozov|Panoramic|3414
+AS16-P-4802|149:14:04|Aft|27|4797|CSM|Rev 39|West of Vetchinkin|Panoramic|3414
+AS16-P-4803|149:14:10|Forward|29|4808|CSM|Rev 39|Morozov|Panoramic|3414
+AS16-P-4804|149:14:17|Aft|28|4799|CSM|Rev 39|West of Vetchinkin|Panoramic|3414
+AS16-P-4805|149:14:24|Forward|30|4810|CSM|Rev 39|Gregory, Morozov|Panoramic|3414
+AS16-P-4806|149:14:30|Aft|29|4801|CSM|Rev 39|East of Morozov|Panoramic|3414
+AS16-P-4807|149:14:36|Forward|31|4812|CSM|Rev 39|Gregory, Meshcherskiy, Morozov|Panoramic|3414
+AS16-P-4808|149:14:43|Aft|29|4803|CSM|Rev 39|Morozov|Panoramic|3414
+AS16-P-4809|149:14:49|Forward|31|4814|CSM|Rev 39|Meshcherskiy|Panoramic|3414
+AS16-P-4810|149:14:56|Aft|30|4805|CSM|Rev 39|Gregory, Morozov|Panoramic|3414
+AS16-P-4811|149:15:03|Forward|32|4816|CSM|Rev 39|East of Ostwald|Panoramic|3414
+AS16-P-4812|149:15:10|Aft|31|4807|CSM|Rev 39|Gregory, Meshcherskiy, Morozov|Panoramic|3414
+AS16-P-4813|149:15:16|Forward|33|4818|CSM|Rev 39|East of Ostwald|Panoramic|3414
+AS16-P-4814|149:15:22|Aft|31|4809|CSM|Rev 39|Meshcherskiy|Panoramic|3414
+AS16-P-4815|149:15:29|Forward|33|4820|CSM|Rev 39|Ostwald|Panoramic|3414
+AS16-P-4816|149:15:35|Aft|32|4811|CSM|Rev 39|East of Ostwald|Panoramic|3414
+AS16-P-4817|149:15:41|Forward|34|4822|CSM|Rev 39|Ostwald|Panoramic|3414
+AS16-P-4818|149:15:48|Aft|33|4813|CSM|Rev 39|East of Ostwald|Panoramic|3414
+AS16-P-4819|149:15:54|Forward|35|4824|CSM|Rev 39|Ostwald|Panoramic|3414
+AS16-P-4820|149:16:01|Aft|33|4815|CSM|Rev 39|Ostwald|Panoramic|3414
+AS16-P-4821|149:16:08|Forward|35|4826|CSM|Rev 39|Ostwald|Panoramic|3414
+AS16-P-4822|149:16:15|Aft|34|4817|CSM|Rev 39|Ostwald|Panoramic|3414
+AS16-P-4823|149:16:21|Forward|36|4828|CSM|Rev 39|King|Panoramic|3414
+AS16-P-4824|149:16:28|Aft|35|4819|CSM|Rev 39|Ostwald|Panoramic|3414
+AS16-P-4825|149:16:35|Forward|36|4830|CSM|Rev 39|King|Panoramic|3414
+AS16-P-4826|149:16:41|Aft|35|4821|CSM|Rev 39|Ostwald|Panoramic|3414
+AS16-P-4827|149:16:48|Forward|37|4832|CSM|Rev 39|King|Panoramic|3414
+AS16-P-4828|149:16:54|Aft|36|4823|CSM|Rev 39|King|Panoramic|3414
+AS16-P-4829|149:17:01|Forward|38|4834|CSM|Rev 39|King|Panoramic|3414
+AS16-P-4830|149:17:07|Aft|36|4825|CSM|Rev 39|King|Panoramic|3414
+AS16-P-4831|149:17:14|Forward|39|4836|CSM|Rev 39|Guyot|Panoramic|3414
+AS16-P-4832|149:17:20|Aft|37|4827|CSM|Rev 39|King|Panoramic|3414
+AS16-P-4833|149:17:27|Forward|39|4838|CSM|Rev 39|Guyot|Panoramic|3414
+AS16-P-4834|149:17:34|Aft|38|4829|CSM|Rev 39|King|Panoramic|3414
+AS16-P-4835|149:17:40|Forward|40|4840|CSM|Rev 39|Guyot|Panoramic|3414
+AS16-P-4836|149:17:47|Aft|39|4831|CSM|Rev 39|Guyot|Panoramic|3414
+AS16-P-4837|149:17:54|Forward|41|4842|CSM|Rev 39|Abul Wafa, Guyot|Panoramic|3414
+AS16-P-4838|149:18:01|Aft|39|4833|CSM|Rev 39|Guyot|Panoramic|3414
+AS16-P-4839|149:18:07|Forward|41|4844|CSM|Rev 39|Abul Wafa, Guyot|Panoramic|3414
+AS16-P-4840|149:18:14|Aft|40|4835|CSM|Rev 39|Guyot|Panoramic|3414
+AS16-P-4841|149:18:20|Forward|42|4846|CSM|Rev 39|East of Lobachevskiy|Panoramic|3414
+AS16-P-4842|149:18:27|Aft|41|4837|CSM|Rev 39|Abul Wafa, Guyot|Panoramic|3414
+AS16-P-4843|149:18:34|Forward|43|4848|CSM|Rev 39|Lobachevskiy|Panoramic|3414
+AS16-P-4844|149:18:39|Aft|41|4839|CSM|Rev 39|Abul Wafa, Guyot|Panoramic|3414
+AS16-P-4845|149:18:46|Forward|43|4850|CSM|Rev 39|Lobachevskiy|Panoramic|3414
+AS16-P-4846|149:18:53|Aft|42|4841|CSM|Rev 39|East of Lobachevskiy|Panoramic|3414
+AS16-P-4847|149:18:59|Forward|44|4852|CSM|Rev 39|Lobachevskiy|Panoramic|3414
+AS16-P-4848|149:19:06|Aft|43|4843|CSM|Rev 39|Lobachevskiy|Panoramic|3414
+AS16-P-4849|149:19:13|Forward|45|4854|CSM|Rev 39|Firsov, Lobachevskiy|Panoramic|3414
+AS16-P-4850|149:19:19|Aft|43|4845|CSM|Rev 39|Lobachevskiy|Panoramic|3414
+AS16-P-4851|149:19:26|Forward|45|4856|CSM|Rev 39|Firsov|Panoramic|3414
+AS16-P-4852|149:19:32|Aft|44|4847|CSM|Rev 39|Lobachevskiy|Panoramic|3414
+AS16-P-4853|149:19:38|Forward|46|4858|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4854|149:19:45|Aft|45|4849|CSM|Rev 39|Firsov, Lobachevskiy|Panoramic|3414
+AS16-P-4855|149:19:51|Forward|47|4860|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4856|149:19:58|Aft|45|4851|CSM|Rev 39|Firsov|Panoramic|3414
+AS16-P-4857|149:20:04|Forward|48|4862|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4858|149:20:11|Aft|46|4853|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4859|149:20:20|Forward|48|4864|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4860|149:20:27|Aft|47|4855|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4861|149:20:34|Forward|49|4866|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4862|149:20:41|Aft|48|4857|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4863|149:20:48|Forward|50|4868|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4864|149:20:56|Aft|48|4859|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4865|149:21:03|Forward|50|4870|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4866|149:21:11|Aft|49|4861|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4867|149:21:18|Forward|51|4872|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4868|149:21:24|Aft|50|4863|CSM|Rev 39|West of Firsov|Panoramic|3414
+AS16-P-4869|149:21:31|Forward|52|4874|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4870|149:21:37|Aft|50|4865|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4871|149:21:43|Forward|52|4876|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4872|149:21:50|Aft|51|4867|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4873|149:21:56|Forward|53|4878|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4874|149:22:03|Aft|50|4869|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4875|149:22:09|Forward|54|4880|CSM|Rev 39|Saenger|Panoramic|3414
+AS16-P-4876|149:22:16|Aft|52|4871|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4877|149:22:23|Forward|54|4882|CSM|Rev 39|Saenger, Saha|Panoramic|3414
+AS16-P-4878|149:22:29|Aft|53|4873|CSM|Rev 39|East of Saenger|Panoramic|3414
+AS16-P-4879|149:22:36|Forward|55|4884|CSM|Rev 39|Saenger, Saha|Panoramic|3414
+AS16-P-4880|149:22:43|Aft|54|4875|CSM|Rev 39|Saenger|Panoramic|3414
+AS16-P-4881|149:22:49|Forward|56|4886|CSM|Rev 39|West rim of Saenger, Saha|Panoramic|3414
+AS16-P-4882|149:22:56|Aft|54|4877|CSM|Rev 39|Saenger, Saha|Panoramic|3414
+AS16-P-4883|149:23:02|Forward|56|4888|CSM|Rev 39|West of Saenger|Panoramic|3414
+AS16-P-4884|149:23:09|Aft|55|4879|CSM|Rev 39|Saenger, Saha|Panoramic|3414
+AS16-P-4885|149:23:17|Forward|57|4890|CSM|Rev 39|West of Saenger|Panoramic|3414
+AS16-P-4886|149:23:23|Aft|56|4881|CSM|Rev 39|West rim of Saenger, Saha|Panoramic|3414
+AS16-P-4887|149:23:29|Forward|58|4892|CSM|Rev 39|Erro|Panoramic|3414
+AS16-P-4888|149:23:37|Aft|56|4883|CSM|Rev 39|West of Saenger|Panoramic|3414
+AS16-P-4889|149:23:44|Forward|58|4894|CSM|Rev 39|Erro, Wyld|Panoramic|3414
+AS16-P-4890|149:23:51|Aft|57|4885|CSM|Rev 39|West of Saenger|Panoramic|3414
+AS16-P-4891|149:23:57|Forward|59|4896|CSM|Rev 39|Erro, Wyld|Panoramic|3414
+AS16-P-4892|149:24:04|Aft|58|4887|CSM|Rev 39|Erro|Panoramic|3414
+AS16-P-4893|149:24:10|Forward|60|4898|CSM|Rev 39|Erro, Wyld|Panoramic|3414
+AS16-P-4894|149:24:17|Aft|58|4889|CSM|Rev 39|Erro, Wyld|Panoramic|3414
+AS16-P-4895|149:24:24|Forward|60|4900|CSM|Rev 39|Wyld|Panoramic|3414
+AS16-P-4896|149:24:31|Aft|59|4891|CSM|Rev 39|Erro, Wyld|Panoramic|3414
+AS16-P-4897|149:24:39|Forward|61|4902|CSM|Rev 39|Wyld|Panoramic|3414
+AS16-P-4898|149:24:46|Aft|60|4893|CSM|Rev 39|Erro, Wyld|Panoramic|3414
+AS16-P-4899|149:24:53|Forward|62|4904|CSM|Rev 39|Babcock|Panoramic|3414
+AS16-P-4900|149:25:00|Aft|60|4895|CSM|Rev 39|Wyld|Panoramic|3414
+AS16-P-4901|149:25:07|Forward|63|4906|CSM|Rev 39|Babcock, Purkyne|Panoramic|3414
+AS16-P-4902|149:25:14|Aft|61|4897|CSM|Rev 39|Wyld|Panoramic|3414
+AS16-P-4903|149:25:21|Forward|63|4908|CSM|Rev 39|Babcock, Purkyne|Panoramic|3414
+AS16-P-4904|149:25:28|Aft|62|4899|CSM|Rev 39|Babcock|Panoramic|3414
+AS16-P-4905|149:25:35|Forward|64|4910|CSM|Rev 39|Babcock, Purkyne|Panoramic|3414
+AS16-P-4906|149:25:42|Aft|63|4901|CSM|Rev 39|Babcock, Purkyne|Panoramic|3414
+AS16-P-4907|149:25:48|Forward|64|NA|CSM|Rev 39|Babcock|Panoramic|3414
+AS16-P-4908|149:25:55|Aft|63|4903|CSM|Rev 39|Babcock, Purkyne|Panoramic|3414
+AS16-P-4909|149:26:02|Forward|65|NA|CSM|Rev 39|West of Babcock|Panoramic|3414
+AS16-P-4910|149:26:08|Aft|64|4905|CSM|Rev 39|Babcock, Purkyne|Panoramic|3414
+AS16-P-4911|149:26:15|Forward|66|NA|CSM|Rev 39|Mare Smythii|Panoramic|3414
+AS16-P-4912|164:55:35|Forward|1|4917|CSM|Rev 47|West of St.John|Panoramic|3414
+AS16-P-4913|164:55:41|Aft|0|NA|CSM|Rev 47|St.John|Panoramic|3414
+AS16-P-4914|164:55:47|Forward|1|4919|CSM|Rev 47|East of Schuster|Panoramic|3414
+AS16-P-4915|164:55:52|Aft|0|NA|CSM|Rev 47|St.John|Panoramic|3414
+AS16-P-4916|164:55:57|Forward|2|4921|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4917|164:56:03|Aft|1|4912|CSM|Rev 47|West of St.John|Panoramic|3414
+AS16-P-4918|164:56:09|Forward|3|4923|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4919|164:56:15|Aft|1|4914|CSM|Rev 47|East of Schuster|Panoramic|3414
+AS16-P-4920|164:56:21|Forward|3|4925|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4921|164:56:27|Aft|2|4916|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4922|164:56:32|Forward|4|4927|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4923|164:56:38|Aft|3|4918|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4924|164:56:44|Forward|4|4929|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4925|164:56:50|Aft|3|4920|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4926|164:56:56|Forward|5|4931|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4927|164:57:03|Aft|4|4922|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4928|164:57:10|Forward|6|4933|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4929|164:57:16|Aft|4|4924|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4930|164:57:24|Forward|6|4935|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4931|164:57:30|Aft|5|4926|CSM|Rev 47|Schuster|Panoramic|3414
+AS16-P-4932|164:57:36|Forward|7|4937|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4933|164:57:43|Aft|6|4928|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4934|164:57:49|Forward|8|4939|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4935|164:57:55|Aft|6|4930|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4936|164:58:01|Forward|8|4941|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4937|164:58:07|Aft|7|4932|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4938|164:58:14|Forward|9|4943|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4939|164:58:20|Aft|8|4934|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4940|164:58:26|Forward|10|4945|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4941|164:58:32|Aft|8|4936|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4942|164:58:39|Forward|10|4947|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4943|164:58:45|Aft|9|4938|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4944|164:58:51|Forward|11|4949|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4945|164:58:58|Aft|10|4940|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4946|164:59:04|Forward|12|4951|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4947|164:59:09|Aft|10|4942|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4948|164:59:15|Forward|12|4953|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4949|164:59:21|Aft|11|4944|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4950|164:59:28|Forward|13|4955|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4951|164:59:34|Aft|12|4946|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4952|164:59:40|Forward|13|4957|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4953|164:59:46|Aft|12|4948|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4954|164:59:52|Forward|14|4959|CSM|Rev 47|Mendeleev, Hartmann|Panoramic|3414
+AS16-P-4955|165:00:00|Aft|13|4950|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4956|165:00:07|Forward|15|4961|CSM|Rev 47|West of Mendeleev|Panoramic|3414
+AS16-P-4957|165:00:15|Aft|13|4952|CSM|Rev 47|Mendeleev|Panoramic|3414
+AS16-P-4958|165:00:21|Forward|15|4963|CSM|Rev 47|West of Mendeleev|Panoramic|3414
+AS16-P-4959|165:00:27|Aft|14|4954|CSM|Rev 47|Mendeleev, Hartmann|Panoramic|3414
+AS16-P-4960|165:00:34|Forward|16|4965|CSM|Rev 47|Green|Panoramic|3414
+AS16-P-4961|165:00:41|Aft|15|4956|CSM|Rev 47|West of Mendeleev|Panoramic|3414
+AS16-P-4962|165:00:48|Forward|17|4967|CSM|Rev 47|Vetchinkin, Green|Panoramic|3414
+AS16-P-4963|165:00:55|Aft|15|4958|CSM|Rev 47|West of Mendeleev|Panoramic|3414
+AS16-P-4964|165:01:02|Forward|17|4969|CSM|Rev 47|Vetchinkin, Green|Panoramic|3414
+AS16-P-4965|165:01:08|Aft|16|4960|CSM|Rev 47|Green|Panoramic|3414
+AS16-P-4966|165:01:15|Forward|18|4971|CSM|Rev 47|Vetchinkin|Panoramic|3414
+AS16-P-4967|165:01:22|Aft|17|4962|CSM|Rev 47|Vetchinkin, Green|Panoramic|3414
+AS16-P-4968|165:01:29|Forward|19|4973|CSM|Rev 47|West of Vetchinkin|Panoramic|3414
+AS16-P-4969|165:01:35|Aft|17|4964|CSM|Rev 47|Vetchinkin, Green|Panoramic|3414
+AS16-P-4970|165:01:41|Forward|20|4975|CSM|Rev 47|Vetchinkin, Green|Panoramic|3414
+AS16-P-4971|165:01:48|Aft|18|4966|CSM|Rev 47|Vetchinkin|Panoramic|3414
+AS16-P-4972|165:02:55|Forward|20|4977|CSM|Rev 47|West of Vetchinkin|Panoramic|3414
+AS16-P-4973|165:02:02|Aft|19|4968|CSM|Rev 47|West of Vetchinkin|Panoramic|3414
+AS16-P-4974|165:02:10|Forward|21|4979|CSM|Rev 47|East of Morozov|Panoramic|3414
+AS16-P-4975|165:02:18|Aft|20|4970|CSM|Rev 47|Vetchinkin, Green|Panoramic|3414
+AS16-P-4976|165:02:24|Forward|22|4981|CSM|Rev 47|Morozov|Panoramic|3414
+AS16-P-4977|165:02:30|Aft|20|4972|CSM|Rev 47|West of Vetchinkin|Panoramic|3414
+AS16-P-4978|165:02:36|Forward|22|4983|CSM|Rev 47|Morozov, Meshcherskiy|Panoramic|3414
+AS16-P-4979|165:02:42|Aft|21|4974|CSM|Rev 47|East of Morozov|Panoramic|3414
+AS16-P-4980|165:02:48|Forward|23|4985|CSM|Rev 47|Morozov, Meshcherskiy|Panoramic|3414
+AS16-P-4981|165:02:55|Aft|22|4976|CSM|Rev 47|Morozov|Panoramic|3414
+AS16-P-4982|165:03:03|Forward|24|4987|CSM|Rev 47|Meshcherskiy|Panoramic|3414
+AS16-P-4983|165:03:09|Aft|22|4978|CSM|Rev 47|Morozov, Meshcherskiy|Panoramic|3414
+AS16-P-4984|165:03:16|Forward|24|4989|CSM|Rev 47|East of Ostwald|Panoramic|3414
+AS16-P-4985|165:03:23|Aft|23|4980|CSM|Rev 47|Morozov, Meshcherskiy|Panoramic|3414
+AS16-P-4986|165:03:29|Forward|25|4991|CSM|Rev 47|East of Ostwald|Panoramic|3414
+AS16-P-4987|165:03:35|Aft|24|4982|CSM|Rev 47|Meshcherskiy|Panoramic|3414
+AS16-P-4988|165:03:42|Forward|26|4993|CSM|Rev 47|Ostwald|Panoramic|3414
+AS16-P-4989|165:03:50|Aft|24|4984|CSM|Rev 47|East of Ostwald|Panoramic|3414
+AS16-P-4990|165:03:57|Forward|27|4995|CSM|Rev 47|Ostwald|Panoramic|3414
+AS16-P-4991|165:04:04|Aft|25|4986|CSM|Rev 47|East of Ostwald|Panoramic|3414
+AS16-P-4992|165:04:11|Forward|27|4997|CSM|Rev 47|Ostwald|Panoramic|3414
+AS16-P-4993|165:04:19|Aft|26|4988|CSM|Rev 47|Ostwald|Panoramic|3414
+AS16-P-4994|165:04:26|Forward|28|4999|CSM|Rev 47|King, Ostwald|Panoramic|3414
+AS16-P-4995|165:04:32|Aft|27|4990|CSM|Rev 47|Ostwald|Panoramic|3414
+AS16-P-4996|165:04:38|Forward|29|5001|CSM|Rev 47|King, Ostwald|Panoramic|3414
+AS16-P-4997|165:04:44|Aft|27|4992|CSM|Rev 47|Ostwald|Panoramic|3414
+AS16-P-4998|165:04:52|Forward|29|5003|CSM|Rev 47|King|Panoramic|3414
+AS16-P-4999|165:05:00|Aft|28|4994|CSM|Rev 47|King, Ostwald|Panoramic|3414
+AS16-P-5000|165:05:06|Forward|30|5005|CSM|Rev 47|King|Panoramic|3414
+AS16-P-5001|165:05:13|Aft|29|4996|CSM|Rev 47|King, Ostwald|Panoramic|3414
+AS16-P-5002|165:05:19|Forward|31|5007|CSM|Rev 47|Guyot, King|Panoramic|3414
+AS16-P-5003|165:05:26|Aft|29|4998|CSM|Rev 47|King|Panoramic|3414
+AS16-P-5004|165:05:32|Forward|31|5009|CSM|Rev 47|Guyot|Panoramic|3414
+AS16-P-5005|165:05:37|Aft|30|5000|CSM|Rev 47|King|Panoramic|3414
+AS16-P-5006|165:05:42|Forward|32|5011|CSM|Rev 47|Guyot|Panoramic|3414
+AS16-P-5007|165:05:48|Aft|31|5002|CSM|Rev 47|Guyot, King|Panoramic|3414
+AS16-P-5008|165:05:54|Forward|32|5013|CSM|Rev 47|Guyot|Panoramic|3414
+AS16-P-5009|165:06:00|Aft|31|5004|CSM|Rev 47|Guyot|Panoramic|3414
+AS16-P-5010|165:06:05|Forward|33|5015|CSM|Rev 47|Guyot|Panoramic|3414
+AS16-P-5011|165:06:11|Aft|32|5006|CSM|Rev 47|Guyot|Panoramic|3414
+AS16-P-5012|165:06:18|Forward|34|5017|CSM|Rev 47|Guyot, West of Abul Wafa|Panoramic|3414
+AS16-P-5013|165:06:25|Aft|32|5008|CSM|Rev 47|Guyot|Panoramic|3414
+AS16-P-5014|165:06:31|Forward|34|5019|CSM|Rev 47|Lobachevskiy|Panoramic|3414
+AS16-P-5015|165:06:36|Aft|33|5010|CSM|Rev 47|Guyot|Panoramic|3414
+AS16-P-5016|165:06:42|Forward|35|5021|CSM|Rev 47|Lobachevskiy|Panoramic|3414
+AS16-P-5017|165:06:48|Aft|34|5012|CSM|Rev 47|Guyot, West of Abul Wafa|Panoramic|3414
+AS16-P-5018|165:06:53|Forward|36|5023|CSM|Rev 47|Lobachevskiy|Panoramic|3414
+AS16-P-5019|165:07:00|Aft|34|5014|CSM|Rev 47|Lobachevskiy|Panoramic|3414
+AS16-P-5020|165:07:06|Forward|36|5025|CSM|Rev 47|Lobachevskiy, Firsov|Panoramic|3414
+AS16-P-5021|165:07:13|Aft|35|5016|CSM|Rev 47|Lobachevskiy|Panoramic|3414
+AS16-P-5022|165:07:20|Forward|37|5027|CSM|Rev 47|Lobachevskiy, Firsov|Panoramic|3414
+AS16-P-5023|165:07:26|Aft|36|5018|CSM|Rev 47|Lobachevskiy|Panoramic|3414
+AS16-P-5024|165:07:32|Forward|38|5029|CSM|Rev 47|Firsov|Panoramic|3414
+AS16-P-5025|165:07:38|Aft|36|5020|CSM|Rev 47|Lobachevskiy, Firsov|Panoramic|3414
+AS16-P-5026|165:07:45|Forward|38|5031|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5027|165:07:51|Aft|37|5022|CSM|Rev 47|Lobachevskiy, Firsov|Panoramic|3414
+AS16-P-5028|165:07:57|Forward|39|5033|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5029|165:08:03|Aft|38|5024|CSM|Rev 47|Firsov|Panoramic|3414
+AS16-P-5030|165:08:10|Forward|40|5035|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5031|165:08:17|Aft|38|5026|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5032|165:08:23|Forward|40|5037|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5033|165:08:29|Aft|39|5028|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5034|165:08:36|Forward|41|5039|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5035|165:08:42|Aft|40|5030|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5036|165:08:48|Forward|41|5041|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5037|165:08:55|Aft|40|5032|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5038|165:09:01|Forward|42|5043|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5039|165:09:08|Aft|41|5034|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5040|165:09:14|Forward|43|5045|CSM|Rev 47|East of Saenger|Panoramic|3414
+AS16-P-5041|165:09:20|Aft|41|5036|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5042|165:09:26|Forward|43|5047|CSM|Rev 47|East of Saenger|Panoramic|3414
+AS16-P-5043|165:09:33|Aft|42|5038|CSM|Rev 47|West of Firsov|Panoramic|3414
+AS16-P-5044|165:09:39|Forward|44|5049|CSM|Rev 47|East of Saenger|Panoramic|3414
+AS16-P-5045|165:09:45|Aft|43|5040|CSM|Rev 47|East of Saenger|Panoramic|3414
+AS16-P-5046|165:09:52|Forward|45|5051|CSM|Rev 47|Moiseev|Panoramic|3414
+AS16-P-5047|165:09:58|Aft|43|5042|CSM|Rev 47|East of Saenger|Panoramic|3414
+AS16-P-5048|165:10:05|Forward|45|5053|CSM|Rev 47|Moiseev|Panoramic|3414
+AS16-P-5049|165:10:11|Aft|44|5044|CSM|Rev 47|East of Saenger|Panoramic|3414
+AS16-P-5050|165:10:17|Forward|46|5055|CSM|Rev 47|Saenger, Moiseev|Panoramic|3414
+AS16-P-5051|165:10:24|Aft|45|5046|CSM|Rev 47|Moiseev|Panoramic|3414
+AS16-P-5052|165:10:31|Forward|47|5057|CSM|Rev 47|Saenger, Moiseev|Panoramic|3414
+AS16-P-5053|165:10:37|Aft|45|5048|CSM|Rev 47|Moiseev|Panoramic|3414
+AS16-P-5054|165:10:45|Forward|47|5059|CSM|Rev 47|Saenger|Panoramic|3414
+AS16-P-5055|165:10:52|Aft|46|5050|CSM|Rev 47|Saenger, Moiseev|Panoramic|3414
+AS16-P-5056|165:10:59|Forward|48|5061|CSM|Rev 47|Saenger|Panoramic|3414
+AS16-P-5057|165:11:05|Aft|47|5052|CSM|Rev 47|Saenger, Moiseev|Panoramic|3414
+AS16-P-5058|165:11:11|Forward|49|5063|CSM|Rev 47|West of Saenger|Panoramic|3414
+AS16-P-5059|165:11:18|Aft|47|5054|CSM|Rev 47|Saenger|Panoramic|3414
+AS16-P-5060|165:11:25|Forward|49|5065|CSM|Rev 47|East of Erro|Panoramic|3414
+AS16-P-5061|165:11:33|Aft|48|5056|CSM|Rev 47|Saenger|Panoramic|3414
+AS16-P-5062|165:11:39|Forward|50|5067|CSM|Rev 47|Erro|Panoramic|3414
+AS16-P-5063|165:11:46|Aft|49|5058|CSM|Rev 47|West of Saenger|Panoramic|3414
+AS16-P-5064|165:11:52|Forward|51|5069|CSM|Rev 47|Erro|Panoramic|3414
+AS16-P-5065|165:11:59|Aft|49|5060|CSM|Rev 47|East of Erro|Panoramic|3414
+AS16-P-5066|165:12:06|Forward|51|5071|CSM|Rev 47|Erro, Wyld|Panoramic|3414
+AS16-P-5067|165:12:13|Aft|50|5062|CSM|Rev 47|Erro|Panoramic|3414
+AS16-P-5068|165:12:19|Forward|52|5073|CSM|Rev 47|Wyld|Panoramic|3414
+AS16-P-5069|165:12:25|Aft|51|5064|CSM|Rev 47|Erro|Panoramic|3414
+AS16-P-5070|165:12:32|Forward|53|5075|CSM|Rev 47|Wyld|Panoramic|3414
+AS16-P-5071|165:12:38|Aft|51|5066|CSM|Rev 47|Erro, Wyld|Panoramic|3414
+AS16-P-5072|165:12:45|Forward|53|5077|CSM|Rev 47|Wyld|Panoramic|3414
+AS16-P-5073|165:12:52|Aft|52|5068|CSM|Rev 47|Wyld|Panoramic|3414
+AS16-P-5074|165:12:58|Forward|54|5079|CSM|Rev 47|Babcock|Panoramic|3414
+AS16-P-5075|165:13:05|Aft|53|5070|CSM|Rev 47|Wyld|Panoramic|3414
+AS16-P-5076|165:13:12|Forward|55|5081|CSM|Rev 47|Babcock|Panoramic|3414
+AS16-P-5077|165:13:18|Aft|53|5072|CSM|Rev 47|Wyld|Panoramic|3414
+AS16-P-5078|165:13:25|Forward|55|5083|CSM|Rev 47|Babcock, Purkyne|Panoramic|3414
+AS16-P-5079|165:13:31|Aft|54|5074|CSM|Rev 47|Babcock|Panoramic|3414
+AS16-P-5080|165:13:38|Forward|56|5085|CSM|Rev 47|Babcock, Purkyne|Panoramic|3414
+AS16-P-5081|165:13:44|Aft|55|5076|CSM|Rev 47|Babcock|Panoramic|3414
+AS16-P-5082|165:13:50|Forward|56|5087|CSM|Rev 47|Babcock|Panoramic|3414
+AS16-P-5083|165:13:56|Aft|55|5078|CSM|Rev 47|Babcock, Purkyne|Panoramic|3414
+AS16-P-5084|165:14:03|Forward|57|5089|CSM|Rev 47|West of Babcock|Panoramic|3414
+AS16-P-5085|165:14:10|Aft|56|5080|CSM|Rev 47|Babcock, Purkyne|Panoramic|3414
+AS16-P-5086|165:14:16|Forward|58|5091|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5087|165:14:23|Aft|56|5082|CSM|Rev 47|Babcock|Panoramic|3414
+AS16-P-5088|165:14:30|Forward|58|5093|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5089|165:14:36|Aft|57|5084|CSM|Rev 47|West of Babcock|Panoramic|3414
+AS16-P-5090|165:14:43|Forward|59|5095|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5091|165:14:50|Aft|58|5086|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5092|165:14:56|Forward|60|5097|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5093|165:15:03|Aft|58|5088|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5094|165:15:10|Forward|60|5099|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5095|165:15:16|Aft|59|5090|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5096|165:15:23|Forward|61|5101|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5097|165:15:30|Aft|60|5092|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5098|165:15:37|Forward|62|5103|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5099|165:15:42|Aft|60|5094|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5100|165:15:49|Forward|62|5105|CSM|Rev 47|Mare Smythii, Neper K|Panoramic|3414
+AS16-P-5101|165:15:56|Aft|61|5096|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5102|165:16:02|Forward|63|5107|CSM|Rev 47|Mare Smythii, Neper K|Panoramic|3414
+AS16-P-5103|165:16:09|Aft|62|5098|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5104|165:16:15|Forward|64|5109|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5105|165:16:21|Aft|62|5100|CSM|Rev 47|Mare Smythii, Neper K|Panoramic|3414
+AS16-P-5106|165:16:28|Forward|64|5111|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5107|165:16:34|Aft|63|5102|CSM|Rev 47|Mare Smythii, Neper K|Panoramic|3414
+AS16-P-5108|165:16:41|Forward|65|5113|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5109|165:16:48|Aft|64|5104|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5110|165:16:55|Forward|66|5115|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5111|165:17:02|Aft|64|5106|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5112|165:17:09|Forward|66|5117|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5113|165:17:16|Aft|65|5108|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5114|165:17:22|Forward|67|5119|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5115|165:17:29|Aft|66|5110|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5116|165:17:36|Forward|68|5121|CSM|Rev 47|Schubert|Panoramic|3414
+AS16-P-5117|165:17:43|Aft|66|5112|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5118|165:17:50|Forward|68|5123|CSM|Rev 47|Schubert, B, Gilbert U|Panoramic|3414
+AS16-P-5119|165:17:57|Aft|67|5114|CSM|Rev 47|Mare Smythii|Panoramic|3414
+AS16-P-5120|165:18:03|Forward|69|5125|CSM|Rev 47|Schubert B|Panoramic|3414
+AS16-P-5121|165:18:10|Aft|68|5116|CSM|Rev 47|Schubert|Panoramic|3414
+AS16-P-5122|165:18:17|Forward|70|5127|CSM|Rev 47|Kastner G|Panoramic|3414
+AS16-P-5123|165:18:25|Aft|68|5118|CSM|Rev 47|Schubert, B, Gilbert U|Panoramic|3414
+AS16-P-5124|165:18:32|Forward|70|5129|CSM|Rev 47|Kastner G|Panoramic|3414
+AS16-P-5125|165:18:38|Aft|69|5120|CSM|Rev 47|Schubert B|Panoramic|3414
+AS16-P-5126|165:18:45|Forward|71|5131|CSM|Rev 47|Schubert Z|Panoramic|3414
+AS16-P-5127|165:18:51|Aft|70|5122|CSM|Rev 47|Kastner G|Panoramic|3414
+AS16-P-5128|165:18:58|Forward|72|5133|CSM|Rev 47|Schubert Z|Panoramic|3414
+AS16-P-5129|165:19:05|Aft|70|5124|CSM|Rev 47|Kastner G|Panoramic|3414
+AS16-P-5130|165:19:11|Forward|72|5135|CSM|Rev 47|Schubert X, Gilbert|Panoramic|3414
+AS16-P-5131|165:19:18|Aft|71|5126|CSM|Rev 47|Schubert Z|Panoramic|3414
+AS16-P-5132|165:19:24|Forward|73|5137|CSM|Rev 47|Schubert X & Y, Gilbert|Panoramic|3414
+AS16-P-5133|165:19:31|Aft|72|5128|CSM|Rev 47|Schubert Z|Panoramic|3414
+AS16-P-5134|165:19:38|Forward|74|5139|CSM|Rev 47|Gilbert|Panoramic|3414
+AS16-P-5135|165:19:45|Aft|72|5130|CSM|Rev 47|Schubert X, Gilbert|Panoramic|3414
+AS16-P-5136|165:19:52|Forward|75|5141|CSM|Rev 47|Gilbert|Panoramic|3414
+AS16-P-5137|165:19:59|Aft|73|5132|CSM|Rev 47|Schubert X & Y, Gilbert|Panoramic|3414
+AS16-P-5138|165:20:06|Forward|75|5143|CSM|Rev 47|Schubert N|Panoramic|3414
+AS16-P-5139|165:20:13|Aft|74|5134|CSM|Rev 47|Gilbert|Panoramic|3414
+AS16-P-5140|165:20:19|Forward|76|5145|CSM|Rev 47|Schubert N|Panoramic|3414
+AS16-P-5141|165:20:26|Aft|75|5136|CSM|Rev 47|Gilbert|Panoramic|3414
+AS16-P-5142|165:20:33|Forward|77|5147|CSM|Rev 47|Dubiago C|Panoramic|3414
+AS16-P-5143|165:20:40|Aft|75|5138|CSM|Rev 47|Schubert N|Panoramic|3414
+AS16-P-5144|165:20:47|Forward|77|5149|CSM|Rev 47|East of Maclaurin L|Panoramic|3414
+AS16-P-5145|165:40:53|Aft|76|5140|CSM|Rev 47|Schubert N|Panoramic|3414
+AS16-P-5146|165:21:00|Forward|78|5151|CSM|Rev 47|Maclaurin L|Panoramic|3414
+AS16-P-5147|165:21:07|Aft|77|5142|CSM|Rev 47|Dubiago C|Panoramic|3414
+AS16-P-5148|165:21:14|Forward|79|5153|CSM|Rev 47|Maclaurin L|Panoramic|3414
+AS16-P-5149|165:21:20|Aft|77|5144|CSM|Rev 47|East of Maclaurin L|Panoramic|3414
+AS16-P-5150|165:21:27|Forward|79|5155|CSM|Rev 47|Maclaurin B|Panoramic|3414
+AS16-P-5151|165:21:34|Aft|78|5146|CSM|Rev 47|Maclaurin L|Panoramic|3414
+AS16-P-5152|165:21:40|Forward|80|5157|CSM|Rev 47|Dubiago M|Panoramic|3414
+AS16-P-5153|165:21:48|Aft|79|5148|CSM|Rev 47|Maclaurin L|Panoramic|3414
+AS16-P-5154|165:21:55|Forward|80|5159|CSM|Rev 47|Dubiago M|Panoramic|3414
+AS16-P-5155|165:22:01|Aft|79|5150|CSM|Rev 47|Maclaurin B|Panoramic|3414
+AS16-P-5156|165:22:08|Forward|81|5161|CSM|Rev 47|Maclaurin, M|Panoramic|3414
+AS16-P-5157|165:22:15|Aft|80|5152|CSM|Rev 47|Dubiago M|Panoramic|3414
+AS16-P-5158|165:22:22|Forward|81|5163|CSM|Rev 47|Maclaurin|Panoramic|3414
+AS16-P-5159|165:22:28|Aft|80|5154|CSM|Rev 47|Dubiago M|Panoramic|3414
+AS16-P-5160|165:22:35|Forward|82|5165|CSM|Rev 47|Maclaurin A|Panoramic|3414
+AS16-P-5161|165:22:41|Aft|81|5156|CSM|Rev 47|Maclaurin, M|Panoramic|3414
+AS16-P-5162|165:22:48|Forward|83|5167|CSM|Rev 47|Mare Spumans, Maclaurin U|Panoramic|3414
+AS16-P-5163|165:22:55|Aft|81|5158|CSM|Rev 47|Maclaurin|Panoramic|3414
+AS16-P-5164|165:23:02|Forward|83|5169|CSM|Rev 47|Maclaurin E|Panoramic|3414
+AS16-P-5165|165:23:08|Aft|82|5160|CSM|Rev 47|Maclaurin A|Panoramic|3414
+AS16-P-5166|165:23:14|Forward|84|5171|CSM|Rev 47|Webb C & J|Panoramic|3414
+AS16-P-5167|165:23:20|Aft|83|5162|CSM|Rev 47|Mare Spumans, Maclaurin U|Panoramic|3414
+AS16-P-5168|165:23:27|Forward|84|5173|CSM|Rev 47|Webb C & J|Panoramic|3414
+AS16-P-5169|165:23:34|Aft|84|5164|CSM|Rev 47|Maclaurin E|Panoramic|3414
+AS16-P-5170|165:23:41|Forward|85|5175|CSM|Rev 47|Apollonius S|Panoramic|3414
+AS16-P-5171|165:23:48|Aft|84|5166|CSM|Rev 47|Webb C & J|Panoramic|3414
+AS16-P-5172|165:23:55|Forward|85|5177|CSM|Rev 47|Langrenus T|Panoramic|3414
+AS16-P-5173|165:24:03|Aft|84|5168|CSM|Rev 47|Webb C & J|Panoramic|3414
+AS16-P-5174|165:24:10|Forward|86|5179|CSM|Rev 47|Langrenus T|Panoramic|3414
+AS16-P-5175|165:24:18|Aft|85|5170|CSM|Rev 47|Apollonius S|Panoramic|3414
+AS16-P-5176|165:24:24|Forward|86|5181|CSM|Rev 47|Webb P, Langrenus|Panoramic|3414
+AS16-P-5177|165:24:30|Aft|85|5172|CSM|Rev 47|Langrenus T|Panoramic|3414
+AS16-P-5178|165:24:37|Forward|86|5183|CSM|Rev 47|Webb, P, Langrenus|Panoramic|3414
+AS16-P-5179|165:24:44|Aft|86|5174|CSM|Rev 47|Langrenus T|Panoramic|3414
+AS16-P-5180|165:24:49|Forward|86|5185|CSM|Rev 47|Webb, Langrenus|Panoramic|3414
+AS16-P-5181|165:24:55|Aft|86|5176|CSM|Rev 47|Webb P, Langrenus|Panoramic|3414
+AS16-P-5182|165:25:02|Forward|86|5187|CSM|Rev 47|Langrenus, C|Panoramic|3414
+AS16-P-5183|165:25:08|Aft|86|5178|CSM|Rev 47|Webb, P, Langrenus|Panoramic|3414
+AS16-P-5184|165:25:15|Forward|86|5189|CSM|Rev 47|Webb P|Panoramic|3414
+AS16-P-5185|165:25:22|Aft|86|5180|CSM|Rev 47|Webb, Langrenus|Panoramic|3414
+AS16-P-5186|165:25:29|Forward|86|5191|CSM|Rev 47|Langrenus B|Panoramic|3414
+AS16-P-5187|165:25:36|Aft|86|5182|CSM|Rev 47|Langrenus, C|Panoramic|3414
+AS16-P-5188|165:25:43|Forward|86|5193|CSM|Rev 47|Langrenus B & K|Panoramic|3414
+AS16-P-5189|165:25:50|Aft|86|5184|CSM|Rev 47|Webb P|Panoramic|3414
+AS16-P-5190|165:25:57|Forward|85|5195|CSM|Rev 47|Langrenus F & K|Panoramic|3414
+AS16-P-5191|165:26:03|Aft|86|5186|CSM|Rev 47|Langrenus B|Panoramic|3414
+AS16-P-5192|165:26:10|Forward|85|5197|CSM|Rev 47|Langrenus F|Panoramic|3414
+AS16-P-5193|165:26:17|Aft|86|5188|CSM|Rev 47|Langrenus B & K|Panoramic|3414
+AS16-P-5194|165:26:24|Forward|84|5199|CSM|Rev 47|Langrenus F|Panoramic|3414
+AS16-P-5195|165:26:31|Aft|85|5190|CSM|Rev 47|Langrenus F & K|Panoramic|3414
+AS16-P-5196|165:26:38|Forward|84|5201|CSM|Rev 47|Mare Fecunditatis|Panoramic|3414
+AS16-P-5197|165:26:45|Aft|85|5192|CSM|Rev 47|Langrenus F|Panoramic|3414
+AS16-P-5198|165:26:52|Forward|83|5203|CSM|Rev 47|Mare Fecunditatis|Panoramic|3414
+AS16-P-5199|165:26:59|Aft|84|5194|CSM|Rev 47|Langrenus F|Panoramic|3414
+AS16-P-5200|165:27:06|Forward|82|NA|CSM|Rev 47|Mare Fecunditatis|Panoramic|3414
+AS16-P-5201|165:27:13|Aft|84|5196|CSM|Rev 47|Mare Fecunditatis|Panoramic|3414
+AS16-P-5202|165:27:20|Forward|82|NA|CSM|Rev 47|Messier G|Panoramic|3414
+AS16-P-5203|165:27:27|Aft|83|5198|CSM|Rev 47|Mare Fecunditatis|Panoramic|3414
+AS16-P-5204|197:02:42|Forward|75|5209|CSM|Rev 63|Langrenus B|Panoramic|3414
+AS16-P-5205|197:02:48|Aft|74|NA|CSM|Rev 63|West of Webb|Panoramic|3414
+AS16-P-5206|197:02:55|Forward|76|5211|CSM|Rev 63|Langrenus B & K|Panoramic|3414
+AS16-P-5207|197:03:01|Aft|75|NA|CSM|Rev 63|West of Webb|Panoramic|3414
+AS16-P-5208|197:03:08|Forward|77|5213|CSM|Rev 63|Langrenus F|Panoramic|3414
+AS16-P-5209|197:03:15|Aft|75|5204|CSM|Rev 63|Langrenus B|Panoramic|3414
+AS16-P-5210|197:03:21|Forward|77|5215|CSM|Rev 63|Langrenus F|Panoramic|3414
+AS16-P-5211|197:03:28|Aft|76|5206|CSM|Rev 63|Langrenus B & K|Panoramic|3414
+AS16-P-5212|197:03:34|Forward|78|5217|CSM|Rev 63|Mare Fecunditatis|Panoramic|3414
+AS16-P-5213|197:03:41|Aft|77|5208|CSM|Rev 63|Langrenus F|Panoramic|3414
+AS16-P-5214|197:03:48|Forward|78|5219|CSM|Rev 63|Mare Fecunditatis|Panoramic|3414
+AS16-P-5215|197:03:53|Aft|77|5210|CSM|Rev 63|Langrenus F|Panoramic|3414
+AS16-P-5216|197:03:59|Forward|78|5221|CSM|Rev 63|Mare Fecunditatis|Panoramic|3414
+AS16-P-5217|197:04:04|Aft|78|5212|CSM|Rev 63|Mare Fecunditatis|Panoramic|3414
+AS16-P-5218|197:04:10|Forward|79|5223|CSM|Rev 63|Mare Fecunditatis|Panoramic|3414
+AS16-P-5219|197:04:16|Aft|78|5214|CSM|Rev 63|Mare Fecunditatis|Panoramic|3414
+AS16-P-5220|197:04:23|Forward|80|5225|CSM|Rev 63|Messier G|Panoramic|3414
+AS16-P-5221|197:04:30|Aft|78|5216|CSM|Rev 63|Mare Fecunditatis|Panoramic|3414
+AS16-P-5222|197:04:36|Forward|81|5227|CSM|Rev 63|Messier G|Panoramic|3414
+AS16-P-5223|197:04:43|Aft|79|5218|CSM|Rev 63|Mare Fecunditatis|Panoramic|3414
+AS16-P-5224|197:04:50|Forward|81|5229|CSM|Rev 63|West of Messier G|Panoramic|3414
+AS16-P-5225|197:04:57|Aft|80|5220|CSM|Rev 63|Messier G|Panoramic|3414
+AS16-P-5226|197:05:03|Forward|82|5231|CSM|Rev 63|Taruntius H|Panoramic|3414
+AS16-P-5227|197:05:10|Aft|81|5222|CSM|Rev 63|Messier G|Panoramic|3414
+AS16-P-5228|197:05:17|Forward|82|5233|CSM|Rev 63|Goclenius A|Panoramic|3414
+AS16-P-5229|197:05:24|Aft|81|5224|CSM|Rev 63|West of Messier G|Panoramic|3414
+AS16-P-5230|197:05:30|Forward|82|5235|CSM|Rev 63|East of Messier|Panoramic|3414
+AS16-P-5231|197:05:37|Aft|82|5226|CSM|Rev 63|Taruntius H|Panoramic|3414
+AS16-P-5232|197:05:43|Forward|83|5237|CSM|Rev 63|Messier B|Panoramic|3414
+AS16-P-5233|197:05:50|Aft|82|5228|CSM|Rev 63|Goclenius A|Panoramic|3414
+AS16-P-5234|197:05:56|Forward|83|5239|CSM|Rev 63|Messier|Panoramic|3414
+AS16-P-5235|197:06:03|Aft|82|5230|CSM|Rev 63|East of Messier|Panoramic|3414
+AS16-P-5236|197:06:10|Forward|84|5241|CSM|Rev 63|Messier A|Panoramic|3414
+AS16-P-5237|197:06:17|Aft|83|5232|CSM|Rev 63|Messier B|Panoramic|3414
+AS16-P-5238|197:06:24|Forward|84|5243|CSM|Rev 63|Messier D|Panoramic|3414
+AS16-P-5239|197:06:30|Aft|83|5234|CSM|Rev 63|Messier|Panoramic|3414
+AS16-P-5240|197:06:37|Forward|84|5245|CSM|Rev 63|Messier D|Panoramic|3414
+AS16-P-5241|197:06:44|Aft|84|5236|CSM|Rev 63|Messier A|Panoramic|3414
+AS16-P-5242|197:06:51|Forward|85|5247|CSM|Rev 63|West of Messier D|Panoramic|3414
+AS16-P-5243|197:06:57|Aft|84|5238|CSM|Rev 63|Messier D|Panoramic|3414
+AS16-P-5244|197:07:04|Forward|85|5249|CSM|Rev 63|Secchi X|Panoramic|3414
+AS16-P-5245|197:07:11|Aft|84|5240|CSM|Rev 63|Messier D|Panoramic|3414
+AS16-P-5246|197:07:18|Forward|85|5251|CSM|Rev 63|Secchi X|Panoramic|3414
+AS16-P-5247|197:07:25|Aft|85|5242|CSM|Rev 63|West of Messier D|Panoramic|3414
+AS16-P-5248|197:07:32|Forward|85|5253|CSM|Rev 63|East of Lubock|Panoramic|3414
+AS16-P-5249|197:07:39|Aft|85|5244|CSM|Rev 63|Secchi X|Panoramic|3414
+AS16-P-5250|197:07:45|Forward|85|5255|CSM|Rev 63|Rimae Goclenius|Panoramic|3414
+AS16-P-5251|197:07:52|Aft|85|5246|CSM|Rev 63|Secchi X|Panoramic|3414
+AS16-P-5252|197:07:59|Forward|84|5257|CSM|Rev 63|Lubbock|Panoramic|3414
+AS16-P-5253|197:08:06|Aft|85|5248|CSM|Rev 63|East of Lubock|Panoramic|3414
+AS16-P-5254|197:08:13|Forward|84|5259|CSM|Rev 63|Lubbock, West of Gutenberg|Panoramic|3414
+AS16-P-5255|197:08:19|Aft|85|5250|CSM|Rev 63|Rimae Goclenius|Panoramic|3414
+AS16-P-5256|197:08:25|Forward|84|5261|CSM|Rev 63|Gutenberg, G|Panoramic|3414
+AS16-P-5257|197:08:31|Aft|84|5252|CSM|Rev 63|Lubbock|Panoramic|3414
+AS16-P-5258|197:08:37|Forward|83|5263|CSM|Rev 63|Gutenberg, G|Panoramic|3414
+AS16-P-5259|197:08:44|Aft|84|5254|CSM|Rev 63|Lubbock, West of Gutenberg|Panoramic|3414
+AS16-P-5260|197:08:50|Forward|83|5265|CSM|Rev 63|Gutenberg, G|Panoramic|3414
+AS16-P-5261|197:08:57|Aft|84|5256|CSM|Rev 63|Gutenberg, G|Panoramic|3414
+AS16-P-5262|197:09:04|Forward|83|5267|CSM|Rev 63|Rimae Gutenberg|Panoramic|3414
+AS16-P-5263|197:09:11|Aft|83|5258|CSM|Rev 63|Gutenberg, G|Panoramic|3414
+AS16-P-5264|197:09:18|Forward|82|5269|CSM|Rev 63|Rimae Gutenberg|Panoramic|3414
+AS16-P-5265|197:09:25|Aft|83|5260|CSM|Rev 63|Gutenberg, G|Panoramic|3414
+AS16-P-5266|197:09:32|Forward|82|5271|CSM|Rev 63|Rimae Gutenberg|Panoramic|3414
+AS16-P-5267|197:09:39|Aft|83|5262|CSM|Rev 63|Rimae Gutenberg|Panoramic|3414
+AS16-P-5268|197:09:46|Forward|81|5273|CSM|Rev 63|Rimae Gutenberg|Panoramic|3414
+AS16-P-5269|197:09:53|Aft|82|5264|CSM|Rev 63|Rimae Gutenberg|Panoramic|3414
+AS16-P-5270|197:10:00|Forward|81|5275|CSM|Rev 63|Gutenberg I, Rimae Gutenberg|Panoramic|3414
+AS16-P-5271|197:10:07|Aft|82|5266|CSM|Rev 63|Rimae Gutenberg|Panoramic|3414
+AS16-P-5272|197:10:14|Forward|79|5277|CSM|Rev 63|Censorinus C, Capella|Panoramic|3414
+AS16-P-5273|197:10:20|Aft|81|5268|CSM|Rev 63|Rimae Gutenberg|Panoramic|3414
+AS16-P-5274|197:10:27|Forward|79|5279|CSM|Rev 63|Censorinus C, Capella|Panoramic|3414
+AS16-P-5275|197:10:34|Aft|81|5270|CSM|Rev 63|Gutenberg I, Rimae Gutenberg|Panoramic|3414
+AS16-P-5276|197:10:41|Forward|78|5281|CSM|Rev 63|Censorinus, Isidorus, Capella|Panoramic|3414
+AS16-P-5277|197:10:48|Aft|79|5272|CSM|Rev 63|Censorinus C, Capella|Panoramic|3414
+AS16-P-5278|197:10:54|Forward|78|5283|CSM|Rev 63|Isidorus, B|Panoramic|3414
+AS16-P-5279|197:11:01|Aft|79|5274|CSM|Rev 63|Censorinus C, Capella|Panoramic|3414
+AS16-P-5280|197:11:08|Forward|78|5285|CSM|Rev 63|Isidorus, B|Panoramic|3414
+AS16-P-5281|197:11:15|Aft|78|5276|CSM|Rev 63|Censorinus, Isidorus, Capella|Panoramic|3414
+AS16-P-5282|197:11:22|Forward|77|5287|CSM|Rev 63|West of Isidorus B|Panoramic|3414
+AS16-P-5283|197:11:29|Aft|78|5278|CSM|Rev 63|Isidorus, B|Panoramic|3414
+AS16-P-5284|197:11:36|Forward|76|5289|CSM|Rev 63|West of Isidorus B|Panoramic|3414
+AS16-P-5285|197:11:45|Aft|78|5280|CSM|Rev 63|Isidorus, B|Panoramic|3414
+AS16-P-5286|197:11:52|Forward|75|5291|CSM|Rev 63|East of Torricelli|Panoramic|3414
+AS16-P-5287|197:11:59|Aft|77|5282|CSM|Rev 63|West of Isidorus B|Panoramic|3414
+AS16-P-5288|197:12:07|Forward|75|5293|CSM|Rev 63|East of Torricelli|Panoramic|3414
+AS16-P-5289|197:12:14|Aft|76|5284|CSM|Rev 63|West of Isidorus B|Panoramic|3414
+AS16-P-5290|197:12:21|Forward|74|5295|CSM|Rev 63|Torricelli, R|Panoramic|3414
+AS16-P-5291|197:12:28|Aft|75|5286|CSM|Rev 63|East of Torricelli|Panoramic|3414
+AS16-P-5292|197:12:35|Forward|74|5297|CSM|Rev 63|Torricelli, R|Panoramic|3414
+AS16-P-5293|197:12:42|Aft|75|5288|CSM|Rev 63|East of Torricelli|Panoramic|3414
+AS16-P-5294|197:12:49|Forward|73|5299|CSM|Rev 63|West of Torricelli|Panoramic|3414
+AS16-P-5295|197:12:56|Aft|74|5290|CSM|Rev 63|Torricelli, R|Panoramic|3414
+AS16-P-5296|197:13:03|Forward|73|5301|CSM|Rev 63|Theophilus|Panoramic|3414
+AS16-P-5297|197:13:10|Aft|74|5292|CSM|Rev 63|Torricelli, R|Panoramic|3414
+AS16-P-5298|197:13:17|Forward|72|5303|CSM|Rev 63|Theophilus|Panoramic|3414
+AS16-P-5299|197:13:24|Aft|73|5294|CSM|Rev 63|West of Torricelli|Panoramic|3414
+AS16-P-5300|197:13:31|Forward|71|5305|CSM|Rev 63|Theophilus|Panoramic|3414
+AS16-P-5301|197:13:38|Aft|73|5296|CSM|Rev 63|Theophilus|Panoramic|3414
+AS16-P-5302|197:13:45|Forward|70|5307|CSM|Rev 63|Theophilus|Panoramic|3414
+AS16-P-5303|197:13:52|Aft|72|5298|CSM|Rev 63|Theophilus|Panoramic|3414
+AS16-P-5304|197:13:59|Forward|70|5309|CSM|Rev 63|East of Zollner F|Panoramic|3414
+AS16-P-5305|197:14:06|Aft|71|5300|CSM|Rev 63|Theophilus|Panoramic|3414
+AS16-P-5306|197:14:13|Forward|69|5311|CSM|Rev 63|Hypatia|Panoramic|3414
+AS16-P-5307|197:14:20|Aft|70|5302|CSM|Rev 63|Theophilus|Panoramic|3414
+AS16-P-5308|197:14:27|Forward|68|5313|CSM|Rev 63|Hypatia|Panoramic|3414
+AS16-P-5309|197:14:35|Aft|70|5304|CSM|Rev 63|East of Zollner F|Panoramic|3414
+AS16-P-5310|197:14:42|Forward|67|5315|CSM|Rev 63|Zollner F|Panoramic|3414
+AS16-P-5311|197:14:49|Aft|69|5306|CSM|Rev 63|Hypatia|Panoramic|3414
+AS16-P-5312|197:14:56|Forward|66|5317|CSM|Rev 63|Kant E|Panoramic|3414
+AS16-P-5313|197:15:04|Aft|68|5308|CSM|Rev 63|Hypatia|Panoramic|3414
+AS16-P-5314|197:15:11|Forward|66|5319|CSM|Rev 63|Kant, E|Panoramic|3414
+AS16-P-5315|197:15:18|Aft|67|5310|CSM|Rev 63|Zollner F|Panoramic|3414
+AS16-P-5316|197:15:25|Forward|65|5321|CSM|Rev 63|Kant, G, Zollner|Panoramic|3414
+AS16-P-5317|197:15:32|Aft|66|5312|CSM|Rev 63|Kant E|Panoramic|3414
+AS16-P-5318|197:15:38|Forward|65|5323|CSM|Rev 63|Zollner|Panoramic|3414
+AS16-P-5319|197:15:45|Aft|66|5314|CSM|Rev 63|Kant, E|Panoramic|3414
+AS16-P-5320|197:15:51|Forward|64|5325|CSM|Rev 63|Zollner, Alfraganus C|Panoramic|3414
+AS16-P-5321|197:15:58|Aft|65|5316|CSM|Rev 63|Kant, G, Zollner|Panoramic|3414
+AS16-P-5322|197:16:05|Forward|63|5327|CSM|Rev 63|Taylor|Panoramic|3414
+AS16-P-5323|197:16:12|Aft|65|5318|CSM|Rev 63|Zollner|Panoramic|3414
+AS16-P-5324|197:16:19|Forward|62|5329|CSM|Rev 63|Taylor|Panoramic|3414
+AS16-P-5325|197:16:26|Aft|64|5320|CSM|Rev 63|Zollner, Alfraganus C|Panoramic|3414
+AS16-P-5326|197:16:32|Forward|62|5331|CSM|Rev 63|Taylor A|Panoramic|3414
+AS16-P-5327|197:16:39|Aft|63|5322|CSM|Rev 63|Taylor|Panoramic|3414
+AS16-P-5328|197:16:46|Forward|61|5333|CSM|Rev 63|Descartes, Apollo 16 landing site|Panoramic|3414
+AS16-P-5329|197:16:53|Aft|62|5324|CSM|Rev 63|Taylor|Panoramic|3414
+AS16-P-5330|197:17:00|Forward|61|5335|CSM|Rev 63|Descartes|Panoramic|3414
+AS16-P-5331|197:17:07|Aft|62|5326|CSM|Rev 63|Taylor A|Panoramic|3414
+AS16-P-5332|197:17:14|Forward|60|5337|CSM|Rev 63|Dollond, B|Panoramic|3414
+AS16-P-5333|197:17:21|Aft|61|5328|CSM|Rev 63|Descartes, Apollo 16 landing site|Panoramic|3414
+AS16-P-5334|197:17:28|Forward|59|5339|CSM|Rev 63|Dollond B & C|Panoramic|3414
+AS16-P-5335|197:17:35|Aft|61|5330|CSM|Rev 63|Descartes|Panoramic|3414
+AS16-P-5336|197:17:42|Forward|58|5341|CSM|Rev 63|Andel, Dollond C|Panoramic|3414
+AS16-P-5337|197:17:49|Aft|60|5332|CSM|Rev 63|Dollond, B|Panoramic|3414
+AS16-P-5338|197:17:56|Forward|58|5343|CSM|Rev 63|Andel|Panoramic|3414
+AS16-P-5339|197:18:03|Aft|59|5334|CSM|Rev 63|Dollond B & C|Panoramic|3414
+AS16-P-5340|197:18:09|Forward|57|5345|CSM|Rev 63|West of Andel|Panoramic|3414
+AS16-P-5341|197:18:14|Aft|58|5336|CSM|Rev 63|Andel, Dollond C|Panoramic|3414
+AS16-P-5342|197:18:20|Forward|57|5347|CSM|Rev 63|West of Andel|Panoramic|3414
+AS16-P-5343|197:18:27|Aft|58|5338|CSM|Rev 63|Andel|Panoramic|3414
+AS16-P-5344|197:18:34|Forward|56|5349|CSM|Rev 63|East of Ritchey|Panoramic|3414
+AS16-P-5345|197:18:41|Aft|57|5340|CSM|Rev 63|West of Andel|Panoramic|3414
+AS16-P-5346|197:18:48|Forward|55|5351|CSM|Rev 63|East of Ritchey|Panoramic|3414
+AS16-P-5347|197:18:55|Aft|57|5342|CSM|Rev 63|West of Andel|Panoramic|3414
+AS16-P-5348|197:19:02|Forward|55|5353|CSM|Rev 63|Ritchet, Hipparchus C|Panoramic|3414
+AS16-P-5349|197:19:09|Aft|56|5344|CSM|Rev 63|East of Ritchey|Panoramic|3414
+AS16-P-5350|197:19:16|Forward|54|5355|CSM|Rev 63|Ritchey, Hind|Panoramic|3414
+AS16-P-5351|197:19:22|Aft|55|5346|CSM|Rev 63|East of Ritchey|Panoramic|3414
+AS16-P-5352|197:19:29|Forward|53|5357|CSM|Rev 63|Hind, Hipparchus|Panoramic|3414
+AS16-P-5353|197:19:36|Aft|55|5348|CSM|Rev 63|Ritchet, Hipparchus C|Panoramic|3414
+AS16-P-5354|197:19:42|Forward|52|5359|CSM|Rev 63|Hipparchus|Panoramic|3414
+AS16-P-5355|197:19:49|Aft|54|5350|CSM|Rev 63|Ritchey, Hind|Panoramic|3414
+AS16-P-5356|197:19:56|Forward|51|5361|CSM|Rev 63|Hipparchus, Halley|Panoramic|3414
+AS16-P-5357|197:20:04|Aft|53|5352|CSM|Rev 63|Hind, Hipparchus|Panoramic|3414
+AS16-P-5358|197:20:10|Forward|51|5363|CSM|Rev 63|Hipparchus, Albategnius|Panoramic|3414
+AS16-P-5359|197:20:17|Aft|52|5354|CSM|Rev 63|Hipparchus|Panoramic|3414
+AS16-P-5360|197:20:24|Forward|50|5365|CSM|Rev 63|Hipparchus, Albategnius|Panoramic|3414
+AS16-P-5361|197:20:31|Aft|51|5356|CSM|Rev 63|Hipparchus, Halley|Panoramic|3414
+AS16-P-5362|197:20:38|Forward|50|5367|CSM|Rev 63|Hipparchus, Albategnius|Panoramic|3414
+AS16-P-5363|197:20:45|Aft|51|5358|CSM|Rev 63|Hipparchus, Albategnius|Panoramic|3414
+AS16-P-5364|197:20:52|Forward|49|5369|CSM|Rev 63|Klein|Panoramic|3414
+AS16-P-5365|197:20:59|Aft|50|5360|CSM|Rev 63|Hipparchus, Albategnius|Panoramic|3414
+AS16-P-5366|197:21:05|Forward|48|5371|CSM|Rev 63|Klein, Muller|Panoramic|3414
+AS16-P-5367|197:21:11|Aft|50|5362|CSM|Rev 63|Hipparchus, Albategnius|Panoramic|3414
+AS16-P-5368|197:21:18|Forward|47|5373|CSM|Rev 63|Albategnius G|Panoramic|3414
+AS16-P-5369|197:21:25|Aft|49|5364|CSM|Rev 63|Klein|Panoramic|3414
+AS16-P-5370|197:21:32|Forward|46|5375|CSM|Rev 63|East of Ptolemaeus|Panoramic|3414
+AS16-P-5371|197:21:40|Aft|48|5366|CSM|Rev 63|Klein, Muller|Panoramic|3414
+AS16-P-5372|197:21:47|Forward|46|5377|CSM|Rev 63|Ptolemaeus|Panoramic|3414
+AS16-P-5373|197:21:54|Aft|47|5368|CSM|Rev 63|Albategnius G|Panoramic|3414
+AS16-P-5374|197:22:01|Forward|45|5379|CSM|Rev 63|Ptolemaeus|Panoramic|3414
+AS16-P-5375|197:22:08|Aft|46|5370|CSM|Rev 63|East of Ptolemaeus|Panoramic|3414
+AS16-P-5376|197:22:15|Forward|44|5381|CSM|Rev 63|Ptolemaeus|Panoramic|3414
+AS16-P-5377|197:22:22|Aft|46|5372|CSM|Rev 63|Ptolemaeus|Panoramic|3414
+AS16-P-5378|197:22:29|Forward|44|5283|CSM|Rev 63|Ptolemaeus, Alphonsus|Panoramic|3414
+AS16-P-5379|197:22:37|Aft|45|5374|CSM|Rev 63|Ptolemaeus|Panoramic|3414
+AS16-P-5380|197:22:44|Forward|43|5385|CSM|Rev 63|Ptolemaeus, Alphonsus|Panoramic|3414
+AS16-P-5381|197:22:51|Aft|44|5376|CSM|Rev 63|Ptolemaeus|Panoramic|3414
+AS16-P-5382|197:22:58|Forward|42|5387|CSM|Rev 63|Ptolemaeus, Alphonsus|Panoramic|3414
+AS16-P-5383|197:23:05|Aft|44|5378|CSM|Rev 63|Ptolemaeus, Alphonsus|Panoramic|3414
+AS16-P-5384|197:23:12|Forward|42|5389|CSM|Rev 63|Ptolemaeus E|Panoramic|3414
+AS16-P-5385|197:23:19|Aft|43|5380|CSM|Rev 63|Ptolemaeus, Alphonsus|Panoramic|3414
+AS16-P-5386|197:23:26|Forward|41|5391|CSM|Rev 63|Ptolemaeus E, Davy G|Panoramic|3414
+AS16-P-5387|197:23:33|Aft|42|5382|CSM|Rev 63|Ptolemaeus, Alphonsus|Panoramic|3414
+AS16-P-5388|197:23:40|Forward|40|5393|CSM|Rev 63|Davy G|Panoramic|3414
+AS16-P-5389|197:23:48|Aft|42|5384|CSM|Rev 63|Ptolemaeus E|Panoramic|3414
+AS16-P-5390|197:23:55|Forward|39|5395|CSM|Rev 63|Davy Y|Panoramic|3414
+AS16-P-5391|197:24:03|Aft|41|5386|CSM|Rev 63|Ptolemaeus E, Davy G|Panoramic|3414
+AS16-P-5392|197:24:10|Forward|38|5397|CSM|Rev 63|Davy Y, Palisa|Panoramic|3414
+AS16-P-5393|197:24:17|Aft|40|5388|CSM|Rev 63|Davy G|Panoramic|3414
+AS16-P-5394|197:24:24|Forward|38|5399|CSM|Rev 63|Davy, Y|Panoramic|3414
+AS16-P-5395|197:24:31|Aft|39|5390|CSM|Rev 63|Davy Y|Panoramic|3414
+AS16-P-5396|197:24:39|Forward|37|5401|CSM|Rev 63|Davy, Palisa T|Panoramic|3414
+AS16-P-5397|197:24:46|Aft|38|5392|CSM|Rev 63|Davy Y, Palisa|Panoramic|3414
+AS16-P-5398|197:24:53|Forward|37|5403|CSM|Rev 63|Lassell C, Lalande A|Panoramic|3414
+AS16-P-5399|197:25:00|Aft|38|5394|CSM|Rev 63|Davy, Y|Panoramic|3414
+AS16-P-5400|197:25:07|Forward|36|5405|CSM|Rev 63|Lassell C, Lalande A|Panoramic|3414
+AS16-P-5401|197:25:14|Aft|37|5396|CSM|Rev 63|Davy, Palisa T|Panoramic|3414
+AS16-P-5402|197:25:22|Forward|35|5407|CSM|Rev 63|East of Guericke C|Panoramic|3414
+AS16-P-5403|197:25:29|Aft|37|5398|CSM|Rev 63|Lassell C, Lalande A|Panoramic|3414
+AS16-P-5404|197:25:36|Forward|34|5409|CSM|Rev 63|Guericke C|Panoramic|3414
+AS16-P-5405|197:25:43|Aft|36|5400|CSM|Rev 63|Lassell C, Lalande A|Panoramic|3414
+AS16-P-5406|197:25:50|Forward|34|5411|CSM|Rev 63|Guericke C|Panoramic|3414
+AS16-P-5407|197:25:57|Aft|35|5402|CSM|Rev 63|East of Guericke C|Panoramic|3414
+AS16-P-5408|197:26:05|Forward|33|5413|CSM|Rev 63|East of Guericke|Panoramic|3414
+AS16-P-5409|197:26:12|Aft|34|5404|CSM|Rev 63|Guericke C|Panoramic|3414
+AS16-P-5410|197:26:17|Forward|32|5415|CSM|Rev 63|Guericke|Panoramic|3414
+AS16-P-5411|197:26:23|Aft|34|5406|CSM|Rev 63|Guericke C|Panoramic|3414
+AS16-P-5412|197:26:30|Forward|31|5417|CSM|Rev 63|Guericke, Parry M|Panoramic|3414
+AS16-P-5413|197:26:37|Aft|33|5408|CSM|Rev 63|East of Guericke|Panoramic|3414
+AS16-P-5414|197:26:43|Forward|31|5419|CSM|Rev 63|Guericke, Parry M|Panoramic|3414
+AS16-P-5415|197:26:50|Aft|32|5410|CSM|Rev 63|Guericke|Panoramic|3414
+AS16-P-5416|197:26:58|Forward|30|5421|CSM|Rev 63|Parry, A|Panoramic|3414
+AS16-P-5417|197:27:05|Aft|31|5412|CSM|Rev 63|Guericke, Parry M|Panoramic|3414
+AS16-P-5418|197:27:12|Forward|39|5423|CSM|Rev 63|Parry, A|Panoramic|3414
+AS16-P-5419|197:27:19|Aft|31|5414|CSM|Rev 63|Guericke, Parry M|Panoramic|3414
+AS16-P-5420|197:27:27|Forward|29|5425|CSM|Rev 63|Bonpland, Fra Mauro|Panoramic|3414
+AS16-P-5421|197:27:34|Aft|30|5416|CSM|Rev 63|Parry, A|Panoramic|3414
+AS16-P-5422|197:27:41|Forward|28|5427|CSM|Rev 63|Bonpland, Fra Mauro|Panoramic|3414
+AS16-P-5423|197:27:49|Aft|30|5418|CSM|Rev 63|Parry, A|Panoramic|3414
+AS16-P-5424|197:27:56|Forward|28|5429|CSM|Rev 63|West rim of Bonpland|Panoramic|3414
+AS16-P-5425|197:28:04|Aft|29|5420|CSM|Rev 63|Bonpland, Fra Mauro|Panoramic|3414
+AS16-P-5426|197:28:11|Forward|27|5431|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5427|197:28:19|Aft|28|5422|CSM|Rev 63|Bonpland, Fra Mauro|Panoramic|3414
+AS16-P-5428|197:28:26|Forward|26|5433|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5429|197:28:34|Aft|28|5424|CSM|Rev 63|West rim of Bonpland|Panoramic|3414
+AS16-P-5430|197:28:41|Forward|25|5435|CSM|Rev 63|Mare Cognitum, Fra Mauro A|Panoramic|3414
+AS16-P-5431|197:28:48|Aft|27|5426|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5432|197:28:55|Forward|24|5437|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5433|197:29:03|Aft|26|5428|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5434|197:29:10|Forward|23|5439|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5435|197:29:18|Aft|25|5430|CSM|Rev 63|Mare Cognitum, Fra Mauro A|Panoramic|3414
+AS16-P-5436|197:29:25|Forward|23|5441|CSM|Rev 63|Mare Cognitum, Darney|Panoramic|3414
+AS16-P-5437|197:29:32|Aft|24|5432|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5438|197:29:40|Forward|22|5443|CSM|Rev 63|Mare Cognitum, Darney|Panoramic|3414
+AS16-P-5439|197:29:47|Aft|23|5434|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5440|197:29:54|Forward|22|5445|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5441|197:30:01|Aft|23|5436|CSM|Rev 63|Mare Cognitum, Darney|Panoramic|3414
+AS16-P-5442|197:30:09|Forward|21|5447|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5443|197:30:16|Aft|22|5438|CSM|Rev 63|Mare Cognitum, Darney|Panoramic|3414
+AS16-P-5444|197:30:23|Forward|20|5449|CSM|Rev 63|Darney C, Euclides D|Panoramic|3414
+AS16-P-5445|197:30:31|Aft|22|5440|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5446|197:30:38|Forward|19|5451|CSM|Rev 63|Darney F, Montes Riphaeus|Panoramic|3414
+AS16-P-5447|197:30:45|Aft|21|5442|CSM|Rev 63|Mare Cognitum|Panoramic|3414
+AS16-P-5448|197:30:53|Forward|18|5453|CSM|Rev 63|Lubiniezky E, Montes Riphaeus|Panoramic|3414
+AS16-P-5449|197:31:00|Aft|20|5444|CSM|Rev 63|Darney C, Euclides D|Panoramic|3414
+AS16-P-5450|197:31:07|Forward|18|5455|CSM|Rev 63|Montes Riphaeus|Panoramic|3414
+AS16-P-5451|197:31:14|Aft|19|5446|CSM|Rev 63|Darney F, Montes Riphaeus|Panoramic|3414
+AS16-P-5452|197:31:20|Forward|17|5457|CSM|Rev 63|Euclides|Panoramic|3414
+AS16-P-5453|197:31:27|Aft|18|5448|CSM|Rev 63|Lubiniezky E, Montes Riphaeus|Panoramic|3414
+AS16-P-5454|197:31:34|Forward|17|5459|CSM|Rev 63|Euclides, C|Panoramic|3414
+AS16-P-5455|197:31:42|Aft|18|5450|CSM|Rev 63|Montes Riphaeus|Panoramic|3414
+AS16-P-5456|197:31:49|Forward|16|5461|CSM|Rev 63|Euclides B & C|Panoramic|3414
+AS16-P-5457|197:31:56|Aft|17|5452|CSM|Rev 63|Euclides|Panoramic|3414
+AS16-P-5458|197:32:03|Forward|15|5463|CSM|Rev 63|West of Euclides B|Panoramic|3414
+AS16-P-5459|197:32:10|Aft|17|5454|CSM|Rev 63|Euclides, C|Panoramic|3414
+AS16-P-5460|197:32:18|Forward|14|5465|CSM|Rev 63|West of Euclides B|Panoramic|3414
+AS16-P-5461|197:32:25|Aft|16|5456|CSM|Rev 63|Euclides B & C|Panoramic|3414
+AS16-P-5462|197:32:32|Forward|13|5467|CSM|Rev 63|East of Herigonius|Panoramic|3414
+AS16-P-5463|197:32:39|Aft|15|5458|CSM|Rev 63|West of Euclides B|Panoramic|3414
+AS16-P-5464|197:32:47|Forward|13|5469|CSM|Rev 63|East of Herigonius|Panoramic|3414
+AS16-P-5465|197:32:54|Aft|14|5460|CSM|Rev 63|West of Euclides B|Panoramic|3414
+AS16-P-5466|197:33:01|Forward|13|5471|CSM|Rev 63|Herigonius|Panoramic|3414
+AS16-P-5467|197:33:08|Aft|13|5462|CSM|Rev 63|East of Herigonius|Panoramic|3414
+AS16-P-5468|197:33:16|Forward|12|5473|CSM|Rev 63|West of Herigonius|Panoramic|3414
+AS16-P-5469|197:33:22|Aft|13|5464|CSM|Rev 63|East of Herigonius|Panoramic|3414
+AS16-P-5470|197:33:28|Forward|11|5475|CSM|Rev 63|Rimae Herigonius|Panoramic|3414
+AS16-P-5471|197:33:35|Aft|13|5466|CSM|Rev 63|Herigonius|Panoramic|3414
+AS16-P-5472|197:33:43|Forward|11|5477|CSM|Rev 63|Rimae Herigonius|Panoramic|3414
+AS16-P-5473|197:33:50|Aft|12|5468|CSM|Rev 63|West of Herigonius|Panoramic|3414
+AS16-P-5474|197:33:57|Forward|10|5479|CSM|Rev 63|Rimae Herigonius|Panoramic|3414
+AS16-P-5475|197:34:04|Aft|11|5470|CSM|Rev 63|Rimae Herigonius|Panoramic|3414
+AS16-P-5476|197:34:12|Forward|10|5481|CSM|Rev 63|East of Wichmann|Panoramic|3414
+AS16-P-5477|197:34:19|Aft|11|5472|CSM|Rev 63|Rimae Herigonius|Panoramic|3414
+AS16-P-5478|197:34:26|Forward|9|5483|CSM|Rev 63|Wichmann|Panoramic|3414
+AS16-P-5479|197:34:32|Aft|10|5474|CSM|Rev 63|Rimae Herigonius|Panoramic|3414
+AS16-P-5480|197:34:39|Forward|8|5485|CSM|Rev 63|Letronne A|Panoramic|3414
+AS16-P-5481|197:34:47|Aft|10|5476|CSM|Rev 63|East of Wichmann|Panoramic|3414
+AS16-P-5482|197:34:54|Forward|7|5487|CSM|Rev 63|Gassendi A, Wichmann R|Panoramic|3414
+AS16-P-5483|197:35:01|Aft|9|5478|CSM|Rev 63|Wichmann|Panoramic|3414
+AS16-P-5484|197:35:09|Forward|6|5489|CSM|Rev 63|Gassendi B|Panoramic|3414
+AS16-P-5485|197:35:16|Aft|8|5480|CSM|Rev 63|Letronne A|Panoramic|3414
+AS16-P-5486|197:35:23|Forward|6|5491|CSM|Rev 63|Letronne|Panoramic|3414
+AS16-P-5487|197:35:30|Aft|7|5482|CSM|Rev 63|Gassendi A, Wichmann R|Panoramic|3414
+AS16-P-5488|197:35:37|Forward|5|5493|CSM|Rev 63|Letronne|Panoramic|3414
+AS16-P-5489|197:35:44|Aft|6|5484|CSM|Rev 63|Gassendi B|Panoramic|3414
+AS16-P-5490|197:35:51|Forward|4|5495|CSM|Rev 63|Letronne, Flamsteed A|Panoramic|3414
+AS16-P-5491|197:35:59|Aft|6|5486|CSM|Rev 63|Letronne|Panoramic|3414
+AS16-P-5492|197:36:06|Forward|4|5497|CSM|Rev 63|Letronne, Flamsteed A|Panoramic|3414
+AS16-P-5493|197:36:13|Aft|5|5488|CSM|Rev 63|Letronne|Panoramic|3414
+AS16-P-5494|197:36:20|Forward|3|5499|CSM|Rev 63|Letronne, Flamsteed|Panoramic|3414
+AS16-P-5495|197:36:27|Aft|4|5490|CSM|Rev 63|Letronne, Flamsteed A|Panoramic|3414
+AS16-P-5496|197:36:35|Forward|2|5501|CSM|Rev 63|Letronne P, Flamsteed|Panoramic|3414
+AS16-P-5497|197:36:42|Aft|4|5492|CSM|Rev 63|Letronne, Flamsteed A|Panoramic|3414
+AS16-P-5498|197:36:49|Forward|1|5503|CSM|Rev 63|West of Letronne P|Panoramic|3414
+AS16-P-5499|197:36:56|Aft|3|5494|CSM|Rev 63|Letronne, Flamsteed|Panoramic|3414
+AS16-P-5500|197:37:04|Forward|0|5505|CSM|Rev 63|West of Letronne P, Flamsteed C|Panoramic|3414
+AS16-P-5501|197:37:11|Aft|2|5496|CSM|Rev 63|Letronne P, Flamsteed|Panoramic|3414
+AS16-P-5502|197:37:18|Forward|-1|NA|CSM|Rev 63|West of Letronne P|Panoramic|3414
+AS16-P-5503|197:37:25|Aft|1|5498|CSM|Rev 63|West of Letronne P|Panoramic|3414
+AS16-P-5504|197:37:31|Forward|-1|NA|CSM|Rev 63|West of Letronne P|Panoramic|3414
+AS16-P-5505|197:37:38|Aft|0|5500|CSM|Rev 63|West of Letronne P, Flamsteed C|Panoramic|3414
+AS16-P-5506|197:38:44|Forward||NA|CSM|Rev 63|Dark|Panoramic|3414
+AS16-P-5507|200:35:29|VerticalCSM|Trans Earth|Olcott, Ostwald Y, Meshcherskiy|Panoramic|3414
+AS16-P-5508|200:35:46|VerticalCSM|Trans Earth|Olcott, Ostwald, Kostinskiy|Panoramic|3414
+AS16-P-5509|200:35:58|VerticalCSM|Trans Earth|Deutsch, Kostinskiy, Ostwald |Panoramic|3414
+AS16-P-5510|200:36:11|VerticalCSM|Trans Earth|Deutsch, Chang Heng, Ostwald, Kostinskiy|Panoramic|3414
+AS16-P-5511|200:36:24|VerticalCSM|Trans Earth|Deutsch, Chang Heng, Ostwald, Kostinskiy, Guyot|Panoramic|3414
+AS16-P-5512|200:36:36|VerticalCSM|Trans Earth|Chang Heng, Ostwald, Kostinskiy, Guyot, Ibn Firnas|Panoramic|3414
+AS16-P-5513|200:36:49|VerticalCSM|Trans Earth|Chang Heng, Ostwald, Guyot, Ibn Firnas|Panoramic|3414
+AS16-P-5514|200:37:01|VerticalCSM|Trans Earth|Chang Heng, Ostwald, Guyot, Ibn Firnas|Panoramic|3414
+AS16-P-5515|200:37:13|VerticalCSM|Trans Earth|Lomonosov, Maxwell, Chang Heng, Guyot, Ibn Firnas, King|Panoramic|3414
+AS16-P-5516|200:37:26|VerticalCSM|Trans Earth|Lomonosov, Maxwell, Fleming, Guyot, Ibn Firnas, King|Panoramic|3414
+AS16-P-5517|200:37:38|VerticalCSM|Trans Earth|Lomonosov, Joliot, Fleming, Guyot, Ibn Firnas, King|Panoramic|3414
+AS16-P-5518|200:37:51|VerticalCSM|Trans Earth|Lomonosov, Joliot, Fleming, Guyot, Lobachevskiy, King, Be?v�?|Panoramic|3414
+AS16-P-5519|200:38:04|VerticalCSM|Trans Earth|Lomonosov, Joliot, Fleming, Lobachevskiy, King, Be?v�?|Panoramic|3414
+AS16-P-5520|200:38:16|VerticalCSM|Trans Earth|"
+Joliot,  Fleming, Lobachevskiy, King, Be?v�?"|Panoramic|3414
+AS16-P-5521|200:38:28|VerticalCSM|Trans Earth|"
+Joliot,  Fleming, Lobachevskiy, King, Be?v�?"|Panoramic|3414
+AS16-P-5522|200:38:40|VerticalCSM|Trans Earth|"
+Joliot,  Fleming, Lobachevskiy, King, Be?v�?"|Panoramic|3414
+AS16-P-5523|200:38:53|VerticalCSM|Trans Earth|"
+Joliot,  Fleming, Hertz, Lobachevskiy, Be?v�?"|Panoramic|3414
+AS16-P-5524|200:39:05|VerticalCSM|Trans Earth|"
+Joliot,  Fleming, Hertz, Lobachevskiy, Be?v�?"|Panoramic|3414
+AS16-P-5525|200:39:18|VerticalCSM|Trans Earth|"
+Joliot,  Hertz, Firsov,  Lobachevskiy, Be?v�?"|Panoramic|3414
+AS16-P-5526|200:39:30|VerticalCSM|Trans Earth|Joliot, Hertz, Firsov, Be?v�?|Panoramic|3414
+AS16-P-5527|200:39:42|VerticalCSM|Trans Earth|Hubble, Al-Biruni, Hertz, Moiseev,  Firsov, Abul W�fa|Panoramic|3414
+AS16-P-5528|200:39:54|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Ginzel, Hertz, Moiseev, Firsov, Abul W�fa|Panoramic|3414
+AS16-P-5529|200:40:07|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Ginzel, Hertz, Moiseev, Firsov, Abul W�fa|Panoramic|3414
+AS16-P-5530|200:40:19|VerticalCSM|Trans Earth|Hubble, Al-Bruni, Ginzel, Hertz, Moiseev, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5531|200:40:31|VerticalCSM|Trans Earth|Hubble, Al-Bruni, Ginzel, Moiseev, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5532|200:40:43|VerticalCSM|Trans Earth|Hubble, Al-Bruni, Goddard, Ginzel, Moiseev, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5533|200:40:56|VerticalCSM|Trans Earth|Hubble, Al-Bruni, Goddard, Ginzel, Moiseev, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5534|200:41:08|VerticalCSM|Trans Earth|Hubble, Al-Bruni, Goddard, Ginzel, Moiseev, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5535|200:41:21|VerticalCSM|Trans Earth|Hubble, Al-Bruni, Goddard, Ginzel, Moiseev, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5536|200:41:33|VerticalCSM|Trans Earth|Hubble, Al-Bruni, Ginzel, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5537|200:41:45|VerticalCSM|Trans Earth|Hubble, Al-Bruni, Ginzel, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5538|200:41:57|VerticalCSM|Trans Earth|Hubble, Al-Bruni, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5539|200:42:10|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Bruni, Hertz, Moiseev, Firsov, Tsiolkovskiy|Panoramic|3414
+AS16-P-5540|200:42:23|VerticalCSM|Trans Earth|Joliot,  Hertz, Lobachevskiy, Firsov|Panoramic|3414
+AS16-P-5541|200:42:35|VerticalCSM|Trans Earth|"
+Joliot,  Hertz, Firsov,  Lobachevskiy, Be?v�?"|Panoramic|3414
+AS16-P-5542|200:42:47|VerticalCSM|Trans Earth|"
+Joliot,  Hertz, Firsov,  Lobachevskiy, King, Be?v�?"|Panoramic|3414
+AS16-P-5543|200:43:00|VerticalCSM|Trans Earth|"
+Joliot,  Hertz, Firsov,  Lobachevskiy, King, Be?v�?"|Panoramic|3414
+AS16-P-5544|200:43:12|VerticalCSM|Trans Earth|"
+Joliot,  Hertz, Firsov,  Lobachevskiy, Be?v�?"|Panoramic|3414
+AS16-P-5545|200:43:25|VerticalCSM|Trans Earth|"
+Joliot,  Hertz, Firsov,  Lobachevskiy, Be?v�?"|Panoramic|3414
+AS16-P-5546|200:43:37|VerticalCSM|Trans Earth|"
+Joliot,  Hertz, Firsov,  Lobachevskiy, Be?v�?"|Panoramic|3414
+AS16-P-5547|200:43:49|VerticalCSM|Trans Earth|Joliot, Hubble, Hertz, Firsov, Be?v�?|Panoramic|3414
+AS16-P-5548|200:44:01|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Firsov, Be?v�?|Panoramic|3414
+AS16-P-5549|200:44:13|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Firsov, Be?v�?|Panoramic|3414
+AS16-P-5550|200:44:26|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5551|200:44:38|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5552|200:44:51|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5553|200:45:03|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5554|200:45:15|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5555|200:45:27|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5556|200:45:39|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5557|200:45:52|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5558|200:45:05|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5559|200:46:17|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5560|200:46:29|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5561|200:46:41|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5562|200:46:53|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5563|200:47:06|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5564|200:47:18|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5565|200:47:30|VerticalCSM|Trans Earth|Joliot, Hubble, Al-Briuni, Hertz, Moiseev, Firsov, Vesalius, Be?v�?|Panoramic|3414
+AS16-P-5566|200:47:42|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5567|200:47:55|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5568|200:48:07|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5569|200:48:20|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5570|200:48:32|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5571|200:48:44|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5572|200:48:57|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5573|200:49:09|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5574|200:49:21|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5575|200:49:33|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Hertz, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5576|200:49:46|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5577|200:49:58|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5578|200:50:11|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5579|200:50:23|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5580|200:50:35|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5581|200:50:47|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5582|200:51:00|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Moiseev, Firsov, Vesalius, Tsiolkovskiy|Panoramic|3414
+AS16-P-5583|200:51:12|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Saenger, Moiseev, Vesalius, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5584|200:51:24|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Saenger, Moiseev, Vesalius, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5585|200:51:36|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Saenger, Moiseev, Vesalius, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5586|200:51:48|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Saenger, Moiseev, Vesalius, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5587|200:52:01|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Saenger, Moiseev, Vesalius, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5588|200:52:13|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Saenger, Moiseev, Vesalius, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5589|200:52:25|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Saenger, Moiseev, Vesalius, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5590|200:52:37|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Saenger, Moiseev, Vesalius, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5591|200:52:50|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Goddard, Babcock, Saenger, Moiseev, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5592|200:53:02|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5593|200:53:14|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5594|200:53:26|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5595|200:53:39|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5596|200:53:51|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5597|200:54:04|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5598|200:54:16|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5599|200:54:28|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5600|200:54:41|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5601|200:54:53|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5602|200:55:05|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5603|200:55:17|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5604|200:55:30|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5605|200:55:42|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5606|200:55:54|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5607|200:56:07|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5608|200:56:19|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5609|200:56:31|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5610|200:56:44|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5611|200:56:56|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5612|200:57:08|VerticalCSM|Trans Earth|Hubble, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5613|200:57:21|VerticalCSM|Trans Earth|Plutarch, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5614|200:57:33|VerticalCSM|Trans Earth|Plutarch, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5615|200:57:45|VerticalCSM|Trans Earth|Plutarch, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5616|200:57:57|VerticalCSM|Trans Earth|Plutarch, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5617|200:58:09|VerticalCSM|Trans Earth|Plutarch, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5618|200:58:22|VerticalCSM|Trans Earth|Plutarch, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5619|200:58:34|VerticalCSM|Trans Earth|Plutarch, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5620|200:58:46|VerticalCSM|Trans Earth|Plutarch, Al-Briuni, Jansky, Goddard, Neper, Saenger, Tsiolkovskiy, Fermi|Panoramic|3414
+AS16-P-5621|200:58:58|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5622|200:59:11|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5623|200:59:23|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5624|200:59:35|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5625|200:59:47|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5626|201:00:00|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5627|201:00:12|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5628|201:00:24|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5629|201:00:36|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5630|201:00:49|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5631|201:01:01|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5632|201:01:13|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5633|201:01:26|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5634|201:01:38|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5635|201:01:50|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5636|201:02:02|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5637|201:02:15|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5638|201:02:27|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5639|201:02:39|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5640|201:02:52|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5641|201:03:04|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5642|201:03:16|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5643|201:03:28|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5644|201:03:41|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5645|201:03:53|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5646|201:04:05|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5647|201:04:17|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5648|201:04:29|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5649|201:04:41|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5650|201:04:53|VerticalCSM|Trans Earth|Mare Crisium, Marginis, and Smythii, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5651|201:05:06|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, and Smythii, Schubert, Neper, Tsiolkovskiy|Panoramic|3414
+AS16-P-5652|201:05:18|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5653|201:05:30|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5654|201:05:42|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5655|201:05:54|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5656|201:06:06|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5657|201:06:19|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5658|201:06:31|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5659|201:06:43|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5660|201:06:55|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5661|201:07:07|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5662|201:07:20|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5663|201:07:32|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5664|201:07:44|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Tsiolkovskiy|Panoramic|3414
+AS16-P-5665|201:07:56|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5666|201:08:09|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5667|201:08:21|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5668|201:08:33|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5669|201:08:45|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5670|201:08:57|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5671|201:09:10|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5672|201:09:22|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5673|201:09:34|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5674|201:09:47|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5675|201:09:59|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5676|201:10:11|VerticalCSM|Trans Earth|Cleomedes, Mare Crisium, Marginis, Smythii and Serenitatis, Schubert, Fermi|Panoramic|3414
+AS16-P-5677|201:10:21|VerticalCSM|Trans Earth|Mare Frigoris, Atlas, Hercules, Endymion, Mare Humboldtianum (Part frame)|Panoramic|3414

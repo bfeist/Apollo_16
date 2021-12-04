@@ -11,6 +11,21 @@
       "program": "${file}",
       "console": "integratedTerminal",
       "cwd": "${fileDirname}"
+    },
+    {
+      "type": "node",
+      "request": "attach",
+      "name": "Attach to Node",
+      "skipFiles": ["<node_internals>/**"],
+      "port": 9229
+    },
+    {
+      "type": "chrome",
+      "request": "attach",
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "urlFilter": "http://localhost:3000/*",
+      "webRoot": "${workspaceFolder}"
     }
   ]
 }
